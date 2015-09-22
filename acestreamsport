@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1,Sky Sports 1
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:-1,Sky Sports 2
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
+#EXTINF:-1,Sky Sports 3
+acestream://2e8b87e0595573cf9cc422899d0e4c86fbd83081
+#EXTINF:-1,Sky Sports 4
+acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe
+#EXTINF:-1,Sky Sports 5
+acestream://37558d4ae8149aebd7e87a406fece41626e35c31
+#EXTINF:-1,Sky Sports F1
+acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b
+#EXTINF:-1,BT Sport 1
+acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5
+#EXTINF:-1,BT Sport 2
+acestream://7e8a66f8acc92f39e52634761f391693a4134585
+#EXTINF:-1,BT Sport ESPN
+acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64
+#EXTINF:-1,Premier Sports
+acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf
+#EXTINF:-1,Setanta Sports + HD
+acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb
+#EXTINF:-1,Eurosport British
+acestream://268877735d560d2fe78f44bc763e40e2b23b13e4
+#EXTINF:-1,Eurosport 2 British
+acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596
+#EXTINF:-1,Sport TV 1
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:-1,Sport TV 2
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:-1,Sport TV 3
+acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280
+#EXTINF:-1,Sport TV 4
+acestream://4f256982b213a8b3346b01683b82261db8dcd524
+#EXTINF:-1,Sport TV 5
+acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4
+#EXTINF:-1,Arena Sport 1
+acestream://d33479c1c47dc23420fb5894cc71cedf650754eb
+#EXTINF:-1,Arena Sport 2
+acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21
+#EXTINF:-1,Arena Sport 3
+acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
+#EXTINF:-1,Viasat Fotboll
+acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d
+#EXTINF:-1,Viasat Hockey
+acestream://548d364053e6650458e3f347dfbda0dd852781da
+#EXTINF:-1,Viasat Motor
+acestream://b70983ba89591f00e2602a35e957a2d856a6d58c
+#EXTINF:-1,Viasat Sport
+acestream://fc09d360e7a6ce0629367dc4c83a96feba05a730
+#EXTINF:-1,Viasat Sport Baltic
+acestream://3bea2f854be3b3fc2f6192347c5161611c70fb5f
+#EXTINF:-1,Viasat Sport HD
+acestream://4da1d1ad1f15041795e135dab7439bcfd7dc7adb
+#EXTINF:-1,Viasat Sport Sverige
+acestream://ac7db4c644c21ca9d72c6724fcb206883a87fbbd
+#EXTINF:-1,Viasat TV3 Sport 2 DN
+acestream://6abc8f7da3b0406f721a6984aac1e486ea470543
+#EXTINF:-1,C More Tennis
+acestream://77353129af1bafbf313e2a2925d9166010e92ce4
+#EXTINF:-1,CT Sport
+acestream://6502893c51bcabc817fc6856a94988bd81a172b4
+#EXTINF:-1,Canal+ Deportes
+acestream://a994a04ff801f11872fc1e89258d53c5601ccfbd
+#EXTINF:-1,Canal+ Deportes 2
+acestream://7a3408bafc83d13ec6ecd8dcbc1d0511d4032963
+#EXTINF:-1,Canal+ Futbol
+acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852
+#EXTINF:-1,Canal+ Liga
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1,Canal+ Liga 2
+acestream://d7586f582a41990286d438894bfe67dd0f961b18
+#EXTINF:-1,Canal+ Sport HD
+acestream://07fb7d0131663a5daef420fd75acb5731b1c6585
+#EXTINF:-1,Digi Sport 1
+acestream://7525fc778e3f751b430d4cf626e187268e67a1d5
+#EXTINF:-1,Digi Sport 2
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1,Eurosport
+acestream://b175f55df823b56ccdc6a036d93732f7ba95f176
+#EXTINF:-1,Eurosport HD
+acestream://aa1b763c7b0ea734702fca99093904a5a07c8a34
+#EXTINF:-1,Eurospоrt 2
+acestream://9d81c5b6ce641709cb987166e0ee77a8581b7a57
+#EXTINF:-1,Eurospоrt 2 North-East
+acestream://4b71476f6930076f6e474a520c206fdfd6c33b20
+#EXTINF:-1,Eurospоrt 2 North-East HD
+acestream://9ab089645c4fc0845594c063b3f372e842c806a0
+#EXTINF:-1,Extreme Sports
+acestream://c22bf5b7d06ce2c4031c47a164b049617256120f
+#EXTINF:-1,F+ BG
+acestream://fa5b5861c31bd312346530c0e0db562d7e6ccfd1
+#EXTINF:-1,HD Спорт
+acestream://fe03e78c07574a487ea803b743df560dbb2e972a
+#EXTINF:-1,Motors TV
+acestream://84c27a15472ee950e0567667dfd270cc81b01498
+#EXTINF:-1,Motorsport
+acestream://78e3496e60eb6531f1335639f84b28d712874ae3
+#EXTINF:-1,Movistar F1
+acestream://98b327d19a16be09070212124826e9209cb97540
+#EXTINF:-1,Movistar MotoGP
+acestream://7c01784bfeba11565fce3626e155da1fcdb45976
+#EXTINF:-1,NBA TV
+acestream://3462fdb26e872914ecc30572f3d06d391dbb16a9
+#EXTINF:-1,Nova Sport
+acestream://2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9
+#EXTINF:-1,Nova Sport BG
+acestream://7437157eccc3c23fef405bf277e0d635329428cf
+#EXTINF:-1,Polsat Sport Extra HD
+acestream://ed20cc93e89e6b232ee9e515b7cdeed57fd773b5
+#EXTINF:-1,Polsat Sport HD
+acestream://dfb1115adb7c8740bea94431bdadf2e19fc9bd99
+#EXTINF:-1,Polsat Sport News
+acestream://4c0c928a085aaa180288be1d749ccfd4aed253be
+#EXTINF:-1,Setanta Sports Eurasia HD
+acestream://4f341d4014b588016bdc636b906b880af6a26e63
+#EXTINF:-1,Sport1 LT
+acestream://6edf237331ad445f8f6809031bd12f514c8aaa44
+#EXTINF:-1,Super Tennis HD
+acestream://c0348d263ba7bbb3044b156f806999b0ead8d93e
+#EXTINF:-1,Teledeporte
+acestream://c6635313ebda29534b908d1e67d724d443236a0a
+#EXTINF:-1,Sport 1 Cz
+acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60
+#EXTINF:-1,Sport 1 DE
+acestream://3a619efa4e9efb342affe2042a80647497ef5dbd
+#EXTINF:-1,Sport 2 Cz
+acestream://923bfb351663df55f2708a82eeadb50225bc213d
+#EXTINF:-1,nSport + HD
+acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9
+#EXTINF:-1,Беларусь 5
+acestream://b391b04a8981d61883d5189f1566cdb0922b1a4b
+#EXTINF:-1,КХЛ HD
+acestream://e7f378294d4e756ad12c9b132a3f4fbfdba66ea8
+#EXTINF:-1,КХЛ ТВ
+acestream://efa9e70a93593704227851ce7099194751b599dd
+#EXTINF:-1,НТВ+ Баскетбол
+acestream://5f143a66be8e383684f6b6f22e180cedc605b7b2
+#EXTINF:-1,НТВ+ Спорт
+acestream://98db4f94102b05343118bbf1e7816a81e1765db5
+#EXTINF:-1,НТВ+ Спорт
+acestream://b3181df100c5f6e679bb6b024d8f3b357321b693
+#EXTINF:-1,НТВ+ Теннис
+acestream://02002386ea8974eb8fc081b83068728f4bf1bef3
+#EXTINF:-1,НТВ+ Футбол 1
+acestream://ae18cbb94d7d6ab83c930e503f39aece428c69c6
+#EXTINF:-1,НТВ+ Футбол 1 HD
+acestream://000f1eabeb737b101c4b8851c0d7ae9a83bc343a
+#EXTINF:-1,НТВ+ Футбол 2
+acestream://6d9cda58c468c28f9bb468c1f0628eee80c74fdd
+#EXTINF:-1,НТВ+ Футбол 2 HD
+acestream://3212219c7cbed320cce32e9a40eeae01b78083d1
+#EXTINF:-1,НТВ+ Футбол 3
+acestream://0a2fdceba241833ef440ea629c95292ac2d31513
+#EXTINF:-1,НТВ+ Футбол 3 HD
+acestream://e75b09f68843069164b3396a18ce046fc0e87d1c
+#EXTINF:-1,Россия 2
+acestream://8e62aeded9aaf64709d086ad5dc6c88042314835
+#EXTINF:-1,Спорт
+acestream://06a8f5cac8141e32b2f3f97cf23b1d1042f83452
+#EXTINF:-1,Спорт 1
+acestream://fefcf5eba542b455c0b33e0c8c6163e94e562da5
+#EXTINF:-1,Спорт 1 (Украина)
+acestream://d687ae086599ecbcd0f43cf8c2b93977096a7770
+#EXTINF:-1,Спорт 1 HD
+acestream://300171bf4356f732d93401dc09f7aa9214812478
+#EXTINF:-1,Спорт 2 (Украина)
+acestream://6945a23552bf05bdefc59e3ed3eede81a39e8033
+#EXTINF:-1,Футбол
+acestream://7f1f3217c6a349c715a6eb39059c0cc037977019
+#EXTINF:-1,Футбол 1 (Украина)
+acestream://d1c42638c33eb018e869f363fd783e14eb90372c
+#EXTINF:-1,Футбол 1 HD (Украина)
+acestream://ad418d698e39062d4640914ff452ce62e763e10c
+#EXTINF:-1,Футбол 2 (Украина)
+acestream://391c627621735b0b368b745fdab8ca0557a06bde
+#EXTINF:-1,Футбол 2 HD (Украина)
+acestream://570972d842056f7a676e3e8c41e36c14236c5bb3
