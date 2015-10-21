@@ -2742,5 +2742,129 @@ http://rtmp.one.by:1400
 http://rtmp.one.by:2200 
 #EXTINF:-1, One.by Россия HD 
 http://rtmp.one.by:2300
+#EXTINF:-1,1HD
+http://176.100.108.190:4000/udp/239.1.1.194:1234
+#EXTINF:-1,Amazing life
+http://212.19.7.91:8888/udp/239.191.254.87:13343
+#EXTINF:-1,Amazing life
+http://176.100.108.190:4000/udp/239.1.1.192:1234
+#EXTINF:-1,Amedia 1 (Резерв)
+http://212.19.7.91:8888/udp/239.191.254.30:13343
+#EXTINF:-1,Extreme sports
+http://212.19.7.91:8888/udp/239.191.254.39:13343
+#EXTINF:-1,Extreme sports
+http://77.120.118.235:8081
+#EXTINF:-1,FTV
+http://212.19.7.91:8888/udp/239.191.254.69:13343
+#EXTINF:-1,Fashion HD
+http://176.100.108.190:4000/udp/239.1.1.42:1234
+#EXTINF:-1,Fox
+http://212.19.7.91:8888/udp/239.191.254.107:13343
+#EXTINF:-1,Fox life
+http://212.19.7.91:8888/udp/239.191.254.108:13343
+#EXTINF:-1,France 24
+http://212.19.7.91:8888/udp/239.191.254.114:13343
+#EXTINF:-1,Galaxy
+http://212.19.7.91:8888/udp/239.191.254.113:13343
+#EXTINF:-1,Gamanoid
+http://176.100.108.190:4000/udp/239.1.1.197:1234
+#EXTINF:-1,HL
+http://176.100.108.190:4000/udp/239.1.1.78:1234
+#EXTINF:-1,ID
+http://176.100.108.190:4000/udp/239.1.1.184:1234
+#EXTINF:-1,Luxury world
+http://176.100.108.190:4000/udp/239.1.1.133:1234
+#EXTINF:-1,M6 HD
+http://176.100.108.190:4000/udp/239.1.1.40:1234
+#EXTINF:-1,Mezzo
+http://176.100.108.190:4000/udp/239.1.1.234:1234
+#EXTINF:-1,Mtv
+http://176.100.108.190:4000/udp/239.1.1.198:1234
+#EXTINF:-1,Mtv Hits
+http://212.19.7.91:8888/udp/239.191.254.57:13343
+#EXTINF:-1,Music box
+http://93.157.174.217:4022/udp/234.5.2.81:1234
+#EXTINF:-1,Myzen tv HD
+http://176.100.108.190:4000/udp/239.1.1.41:1234
+#EXTINF:-1,Nano tv
+http://93.157.174.217:4022/udp/234.5.2.30:1234
+#EXTINF:-1,Nat geo HD
+http://176.100.108.190:4000/udp/239.1.1.147:1234
+#EXTINF:-1,Nhk world
+http://212.19.7.91:8888/udp/239.191.254.179:13343
+#EXTINF:-1,Nhk world
+http://176.100.108.190:4000/udp/239.1.1.100:1234
+#EXTINF:-1,Ocean tv
+http://91.224.17.5:7777/udp/239.100.0.207:1234
+#EXTINF:-1,Ocean tv
+http://212.19.7.91:8888/udp/239.191.254.54:13343
+#EXTINF:-1,RT Doc HD
+http://176.100.108.190:4000/udp/239.1.1.137:1234
+#EXTINF:-1,Super tennis HD
+http://176.100.108.190:4000/udp/239.1.1.138:1234
+#EXTINF:-1,TV 1000
+http://212.19.7.91:8888/udp/239.191.254.8:13343
+#EXTINF:-1,TV 1000 Action
+http://212.19.7.91:8888/udp/239.191.254.25:13343
+#EXTINF:-1,Teletravel HD
+http://176.100.108.190:4000/udp/239.1.1.141:1234
+#EXTINF:-1,Trace urban
+http://176.100.108.190:4000/udp/239.1.1.5:1234
+#EXTINF:-1,VH1
+http://176.100.108.190:4000/udp/239.1.1.79:1234
+#EXTINF:-1,Viasat explore
+http://91.224.17.5:7777/udp/239.100.0.166:1234
+#EXTINF:-1,Viasat sport
+http://91.224.17.5:7777/udp/239.100.0.169:1234
+#EXTINF:-1,Viasat sport
+http://212.19.7.91:8888/udp/239.191.254.11:13343
+#EXTINF:-1,Viasat sport
+http://176.100.108.190:4000/udp/239.1.1.75:1234
+#EXTINF:-1,Vintage tv
+http://176.100.108.190:4000/udp/239.1.1.188:1234
+#EXTINF:-1,НТВ+ Спорт
+http://91.224.17.5:7777/udp/239.100.0.221:1234
+#EXTINF:-1,RT
+http://212.19.7.91:8888/udp/239.191.254.106:13343
+#EXTINF:-1,Наш футбол
+http://212.19.7.91:8888/udp/239.191.254.118:13343
+#EXTINF:-1,Оружие
+http://212.19.7.91:8888/udp/239.191.254.150:13343
+#EXTINF:-1,Охота и рыбалка
+http://212.19.7.91:8888/udp/239.191.254.98:13343
+#EXTINF:-1,Охота и рыбалка
+http://176.100.108.190:4000/udp/239.1.1.126:1234
+#EXTINF:-1,Охотник и рыболов HD
+http://176.100.108.190:4000/udp/239.1.1.148:1234
+#EXTINF:-1,Спорт плюс
+http://176.100.108.190:4000/udp/239.1.1.81:1234
+#EXTINF:-1,Футбол
+http://176.100.108.190:4000/udp/239.1.1.196:1234
+#EXTINF:-1,Футбол 1
+http://176.100.108.190:4000/udp/239.1.1.98:1234
+
+#EXTINF:-1, Idman Tv
+
+http://149.255.152.112/idman/index.m3u8
+
+#EXTINF:-1, Fox Tv
+
+http://149.255.152.112/foxturk/index.m3u8
+
+#EXTINF:-1, Ntv sport
+
+http://149.255.152.112/ntvspor/index.m3u8
+
+#EXTINF:-1, Eurosport
+
+http://149.255.152.112/eurosport/index.m3u8
+
+#EXTINF:-1,RU:NTV Football
+
+http://149.255.152.112/ntvfootball/index.m3u8
+
+#EXTINF:-1,Extreme Sports
+
+http://149.255.152.112/extremesports/index.m3u8
 
 
