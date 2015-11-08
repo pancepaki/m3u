@@ -1,0 +1,980 @@
+#EXTM3U
+#EXTINF:0,=== ПЛЕЙЛИСТ ZabavaSlyUkraine ===
+http://j.mp/PromoZabavaSlyUkraine?.m3u8
+#EXTINF:0 group-title="Познавательные",24 Док 
+http://j.mp/ZCH_C01_24DOC_sly?.m3u8
+#EXTINF:0 group-title="Познавательные",24 Техно  
+http://slynet4.8nio.com/mn_24tehno_sly.m3u8
+#EXTINF:0 group-title="Познавательные",24 Техно (Резерв)
+http://slynet4.8nio.com/p_24tehno_sly.m3u8
+#EXTINF:0 group-title="Музыкальные",24RockOne66
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0 group-title="Музыкальные",1HD 
+http://j.mp/P_1HD_sly?.m3u8
+#EXTINF:0,12 канал
+http://slynet4.8nio.com/mn_12kanal_sly.m3u8
+#EXTINF:0,2x2
+http://j.mp/P_2X2_sly?.m3u8
+#EXTINF:0,2x2 +2
+http://slynet4.8nio.com/mn_2x2_sly.m3u8
+#EXTINF:0,360
+http://j.mp/B_360_sly?.m3u8
+#EXTINF:0 group-title="Не работают",360 HD (не работает)
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_PODMOSKOVIEHD/variant.m3u8?version=2
+#EXTINF:0,43 HD
+http://j.mp/43HD_sly?.m3u8
+#EXTINF:0,8 канал 
+http://j.mp/ZCH_C03_8CHANNEL_sly?.m3u8
+#EXTINF:0,A-One
+http://slynet4.8nio.com/mn_aone_sly.m3u8
+#EXTINF:0,Amazin Life
+http://slynet4.8nio.com/mn_amazinglife_sly.m3u8
+#EXTINF:0,AMC (DF)
+http://slynet4.8nio.com/df_amc_sly.m3u8
+#EXTINF:0,Amedia 1 
+http://j.mp/ZCH_C02_AMEDIA12_sly?.m3u8
+#EXTINF:0,Amedia 1 HD 
+http://j.mp/ZCH_C01_HDAMEDIA12_sly?.m3u8
+#EXTINF:0,Amedia 2 (TeVy)
+http://air.televyshka.ru:900/195
+#EXTINF:0 group-title="Не работают",Amedia Hit (не работает)
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_AMEDIAHIT/variant.m3u8?version=2
+#EXTINF:0,Amedia Hit HD (RT Test)
+http://slynet4.8nio.com/rt_amediahithd_sly.m3u8
+#EXTINF:0 group-title="Не работают",Amedia Premium (не работает)
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_AMEDIAPREMIUMSD/variant.m3u8?version=2
+#EXTINF:0,Amedia Premium HD (VG)
+http://slynet4.8nio.com/vg_amediapremiumhd_sly.m3u8
+#EXTINF:0,ANI
+http://j.mp/S_ANI_sly?.m3u8
+#EXTINF:0,Animal Planet 
+http://j.mp/B_ANIMALPLANET_sly?.m3u8
+#EXTINF:0,Animal Planet (VG)
+http://slynet4.8nio.com/vg_animalplanet_sly.m3u8
+#EXTINF:0,Animal Planet HD 
+http://slynet4.8nio.com/CH_C01_ANIMALPLANETHD/variant.m3u8
+#EXTINF:0,Animal Planet HD (VG)
+http://slynet4.8nio.com/vg_animalplanethd_sly.m3u8
+#EXTINF:0,Baby TV
+http://j.mp/ZCH_C01_BABYTV_sly?.m3u8
+#EXTINF:0,BBC World News (не работает)
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0,Boomerang
+http://slynet4.8nio.com/boomerang_sly.m3u8
+#EXTINF:0,Brodilo HD
+http://j.mp/BRODILOHD_sly?.m3u8
+#EXTINF:0,Bridge TV
+http://slynet4.8nio.com/be_brigge_sly.m3u8
+#EXTINF:0,Cartoon Network
+http://j.mp/P_CARTOONNETWORK_sly?.m3u8
+#EXTINF:0,CBS Drama (AR)
+http://j.mp/AR_cbsdrama_sly?.m3u8
+#EXTINF:0,CCTV (VG)
+http://slynet4.8nio.com/vg_cctv_sly.m3u8
+#EXTINF:0,Da Vinci learning (RT Test)
+http://slynet4.8nio.com/rt_davinci_sly.m3u8
+#EXTINF:0 group-title="Музыкальные",Djing HOT HD
+http://j.mp/DjingHOTHD_sly?.m3u8
+#EXTINF:0,Djing Ibiza HD
+http://j.mp/DjingIbizaHD_sly?.m3u8
+#EXTINF:0,Djing Underground HD
+http://j.mp/DjingUndergroundHD_sly?.m3u8
+#EXTINF:0,Djing Animation HD
+http://j.mp/DjingAnimationHD_sly?.m3u8
+#EXTINF:0,Djind DJS HD
+http://j.mp/DjindDJSHD_sly?.m3u8
+#EXTINF:0,Djing Classic HD
+http://j.mp/DjingClassicHD_sly?.m3u8
+#EXTINF:0,Dot Dance
+rtmp://dotdance.vintera.tv:1935/dotdance/dotdance.stream
+#EXTINF:0,Discovery Channel 
+http://slynet4.8nio.com/CH_C02_DISCOVERYCHANNEL/variant.m3u8
+#EXTINF:0,Discovery Channel (Резерв)
+http://j.mp/BO_DISCOVERY_sly?.m3u8
+#EXTINF:0,Discovery Channel (VG)
+http://slynet4.8nio.com/vg_discovery_sly.m3u8
+#EXTINF:0,Discovery Channel HD 
+http://slynet4.8nio.com/CH_C02_DISCOVERYCHANNELHD/variant.m3u8
+#EXTINF:0,Discovery Channel HD (Резерв)
+http://j.mp/ZCH_C05_DISCOVERYHDSHOWCASE2_sly?.m3u8
+#EXTINF:0,Discovery Science
+http://j.mp/ZCH_C03_DISCOVERYSCIENCE2_sly?.m3u8
+#EXTINF:0,Discovery Science HD 
+http://j.mp/ZCH_C05_DISCOVERYSCIENCEHD_sly?.m3u8
+#EXTINF:0,Discovery Investigation Xtra (VG)
+http://slynet4.8nio.com/vg_discoveryix_sly.m3u8
+#EXTINF:0,Discovery Investigation Xtra (TeVy)
+http://j.mp/TInvestigation_Discovery_sly?.m3u8
+#EXTINF:0,DTX (VG)
+http://slynet4.8nio.com/vg_dtx_sly.m3u8
+#EXTINF:0,DW (RT Test)
+http://slynet4.8nio.com/rt_dw_sly.m3u8
+#EXTINF:0,English club TV (RT Test)
+http://slynet4.8nio.com/rt_englishclubtv_sly.m3u8
+#EXTINF:0,Eska Best HD
+http://j.mp/EskaBestHD_sly?.m3u8
+#EXTINF:0,Eska Rock TV HD
+http://j.mp/EskaRockTVHD_sly?.m3u8
+#EXTINF:0,Eska Party TV HD
+http://j.mp/EskaPartyTVHD_sly?.m3u8
+#EXTINF:0,Europa Plus TV (AR)
+http://slynet4.8nio.com/ar_europaplustv_sly.m3u8
+#EXTINF:0,Europa Plus TV (RT Test)
+http://slynet4.8nio.com/rt_europaplustv_sly.m3u8
+#EXTINF:0,EuroNews 
+http://slynet4.8nio.com/p_euronews_sly.m3u8
+#EXTINF:0,Eurosport 
+http://j.mp/ZCH_C06_EUROSPORT12_sly?.m3u8
+#EXTINF:0,Eurosport 2 
+http://slynet4.8nio.com/CH_C04_EUROSPORT2/variant.m3u8
+#EXTINF:0,Eurosport 2 (Резерв)
+http://j.mp/B_EUROSPORT2_sly?.m3u8
+#EXTINF:0,Eurosport HD
+http://slynet4.8nio.com/CH_C02_EUROSPORTHD/variant.m3u8
+#EXTINF:0,Eurosport HD  (Резерв)
+http://j.mp/ZCH_C02_EUROSPORTHD_sly?.m3u8
+#EXTINF:0,Eurosport News (RT Test)
+http://slynet4.8nio.com/rt_eurosportnews_sly.m3u8
+#EXTINF:0,Extreme Sports (VG)
+http://slynet4.8nio.com/vg_extreamsports_sly.m3u8
+#EXTINF:0,Fachion One HD
+http://j.mp/ZCH_C04_FASHIONONEHD_sly?.m3u8
+#EXTINF:0,Fashion TV
+http://slynet4.8nio.com/CH_C04_FASHIONTV/variant.m3u8
+#EXTINF:0,Food Network 
+http://j.mp/ZCH_C05_FOOD2_sly?.m3u8
+#EXTINF:0,Food Network HD 
+http://j.mp/ZCH_C05_FOODHD_sly?.m3u8
+#EXTINF:0,Fox (VG)
+http://slynet4.8nio.com/vg_fox_sly.m3u8
+#EXTINF:0,Fox HD
+http://j.mp/ZCH_C02_FOXHD2_sly?.m3u8
+#EXTINF:0,Fox Life (VG)
+http://slynet4.8nio.com/vg_foxlife_sly.m3u8
+#EXTINF:0,Fox Life HD 
+http://j.mp/ZCH_C04_FOXLIFEHD_sly?.m3u8
+#EXTINF:0,France 24 (не работает) 
+http://93.184.221.133/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8
+#EXTINF:0,GlobalStar TV (NV)
+http://slynet4.8nio.com/globalstartv_sly.m3u8
+#EXTINF:0,Gulli
+http://j.mp/bs_gulli_sly?.m3u8
+#EXTINF:0,HardLife
+rtmp://stream.hardlife.tv/live/hl
+#EXTINF:0,Heavy Metal Television 
+http://j.mp/HeavyMetalTV_sly?.m3u8
+#EXTINF:0,Hello TV HD
+http://j.mp/HelloTVHD_sly?.m3u8
+#EXTINF:0,History (VG)
+http://slynet4.8nio.com/vg_history_sly.m3u8
+#EXTINF:0,History HD 
+http://j.mp/ZCH_C05_HDHISTORY_sly?.m3u8
+#EXTINF:0,HDMedia
+http://j.mp/v_hdmedia_sly?.m3u8
+#EXTINF:0,Inva Media TV 
+http://j.mp/invatv_sly?.m3u8
+#EXTINF:0,IQ HD (RT Test)
+http://slynet4.8nio.com/rt_iqhd_sly.m3u8
+#EXTINF:0,JimJam
+http://slynet4.8nio.com/jimjam_sly.m3u8
+#EXTINF:0,JuCeTV HD
+http://j.mp/T_JuCeTVHD_sly?.m3u8
+#EXTINF:0,LifeNews
+http://slynet4.8nio.com/lifenews_sly.m3u8
+#EXTINF:0,LifeNews HD
+http://slynet4.8nio.com/lifenewshd_sly.m3u8
+#EXTINF:0,LifeNews 78
+http://slynet4.8nio.com/lifenews78_sly.m3u8
+#EXTINF:0,LifeNews 78 HD
+http://slynet4.8nio.com/lifenews78hd_sly.m3u8
+#EXTINF:0,Luxury World
+http://j.mp/Luxury_World_sly?.m3u8
+#EXTINF:0,MCM Top (AR)
+http://slynet4.8nio.com/ar_mcmtop_sly.m3u8
+#EXTINF:0,MCM Top (RT Test)
+http://slynet4.8nio.com/rt_mcmtop_sly.m3u8
+#EXTINF:0,Mezzo (AR)
+http://slynet4.8nio.com/ar_mezzo_sly.m3u8 
+#EXTINF:0,Mezzo (RT Test)
+http://slynet4.8nio.com/rt_mezzo_sly.m3u8
+#EXTINF:0,Mezzo Live HD (RT Test)
+http://slynet4.8nio.com/rt_mezzolivehd_sly.m3u8
+#EXTINF:0,MIAMI MUSIC
+http://74.208.152.93/music/stream.m3u8
+#EXTINF:0,Motors TV (RT Test)
+http://slynet4.8nio.com/rt_motorstv_sly.m3u8
+#EXTINF:0,MTV 
+http://j.mp/ZCH_C03_MTV_sly?.m3u8
+#EXTINF:0,MTV Dance (VG)
+http://slynet4.8nio.com/vg_mtvdance_sly.m3u8
+#EXTINF:0,MTV Hits (RT Test)
+http://slynet4.8nio.com/rt_mtvhits_sly.m3u8
+#EXTINF:0,MTV Live HD (RT Test)
+http://slynet4.8nio.com/rt_mtvlivehd_sly.m3u8
+#EXTINF:0,MTV Rocks (VG)
+http://slynet4.8nio.com/vg_mtvrocks_sly.m3u8
+#EXTINF:0,MTV AM HD
+http://j.mp/SMTVAMHD_sly?.m3u8
+#EXTINF:0,Music Box 
+http://j.mp/ZCH_C04_MUSICBOXTV2_sly?.m3u8
+#EXTINF:0,Muzzone
+http://j.mp/muzzone_sly?.m3u8
+#EXTINF:0,My Zen TV HD 
+http://j.mp/ZCH_C05_MYZENTVHD_sly?.m3u8
+#EXTINF:0,Nat Geo Wild
+http://j.mp/ZCH_C01_NATGEOWILD_sly?.m3u8
+#EXTINF:0,Nat Geo Wild HD (RT Test)
+http://slynet4.8nio.com/rt_natgeowildhd_sly.m3u8
+#EXTINF:0,National Geographic 
+http://j.mp/ZCH_C01_NATGEO2_sly?.m3u8
+#EXTINF:0,National Geographic HD 
+http://j.mp/ZCH_C04_NGCHD_sly?.m3u8 
+#EXTINF:0,Nautical channel (RT Test)
+http://slynet4.8nio.com/rt_nauticalchannel_sly.m3u8
+#EXTINF:0,Nebiset
+http://j.mp/Nebiset_sly?.m3u8
+#EXTINF:0,NHK World TV
+http://j.mp/NHKWorldTV_sly?.m3u8
+#EXTINF:0,Nick Jr. 
+http://j.mp/ZCH_C02_NICKJUNIOR2_sly?.m3u8
+#EXTINF:0,Nickelodeon
+http://slynet4.8nio.com/CH_C04_NICKELODEON/variant.m3u8
+#EXTINF:0,Nickelodeon (Резерв)
+http://slynet4.8nio.com/p_nickelodeon_sly.m3u8
+#EXTINF:0,Nickelodeon HD 
+http://j.mp/ZCH_C01_NICKELODEONHD2_sly?.m3u8
+#EXTINF:0,Number One TV 
+http://j.mp/numberonetv_sly?.m3u8
+#EXTINF:0,Ocean TV 
+http://slynet4.8nio.com/CH_C03_OCEANTV/variant.m3u8
+#EXTINF:0,One HD
+http://j.mp/S_ONEHD_sly?.m3u8
+#EXTINF:0,One UHD
+http://j.mp/ONEUHD_sly?.m3u8
+#EXTINF:0,OneRUS HD
+http://j.mp/S_ONERUSHD_sly?.m3u8
+#EXTINF:0,Outdoor Channel 
+http://j.mp/ZCH_C05_OUTDOORCHANNEL_sly?.m3u8
+#EXTINF:0,Outdoor Channel HD 
+http://j.mp/ZCH_C01_OUTDOORCHANNELHD_sly?.m3u8
+#EXTINF:0,Paramount Channel
+http://j.mp/ZCH_C01_PARAMOUNTCHANNEL_sly?.m3u8
+#EXTINF:0,Paramount Channel HD 
+http://j.mp/ZCH_C02_PARAMOUNTCHANNELHD2_sly?.m3u8
+#EXTINF:0,Paramount Comedy 
+http://j.mp/ZCH_C01_PARAMOUNTCOMEDY2_sly?.m3u8
+#EXTINF:0,Paramount Comedy (Резерв)
+http://j.mp/B_PARAMOUNTCOMEDY_sly?.m3u8
+#EXTINF:0,Paramount Comedy HD (не работает) 
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2
+#EXTINF:0,Public TV HD
+http://j.mp/bs_publictvhd_sly?.m3u8
+#EXTINF:0,POLO Party HD
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:0,Renome
+http://j.mp/SRenome_sly?.m3u8
+#EXTINF:0,RETRO TV
+http://slynet4.8nio.com/retrotv_sly.m3u8
+#EXTINF:0,RT
+http://slynet4.8nio.com/p_russiatoday_sly.m3u8
+#EXTINF:0,RT HD
+http://j.mp/ZCH_C04_RTTVHD_sly?.m3u8
+#EXTINF:0,RT Док HD
+http://j.mp/B_RTDOCHD_sly?.m3u8
+#EXTINF:0,RTVi (DF)
+http://slynet4.8nio.com/df_rtvi_sly.m3u8
+#EXTINF:0,RU.TV
+http://j.mp/ZCH_C01_RUTV2_sly?.m3u8
+#EXTINF:0,RUSONG TV 
+http://j.mp/ZCH_C02_RUSONGTV_sly?.m3u8
+#EXTINF:0,Russian Music Box 
+http://j.mp/p_musboxru_sly?.m3u8
+#EXTINF:0,SET
+http://j.mp/BO_SET_sly?.m3u8
+#EXTINF:0,SET HD 
+http://j.mp/ZCH_C02_SETHD_sly?.m3u8
+#EXTINF:0,Shop24
+http://slynet4.8nio.com/bs_shop24_sly.m3u8
+#EXTINF:0,Shopping Live
+http://slynet4.8nio.com/CH_C03_SHOPPINGLIFE/variant.m3u8
+#EXTINF:0,Sony Sci-Fi
+http://slynet4.8nio.com/be_axnscifi_sly.m3u8
+#EXTINF:0,Sony Turbo  
+http://j.mp/ZCH_C01_SONYTURBO2_sly?.m3u8
+#EXTINF:0,STV  (NV) 
+http://slynet4.8nio.com/stv_sly.m3u8
+#EXTINF:0,TiJi 
+http://slynet4.8nio.com/bs_tiji_sly.m3u8
+#EXTINF:0,Teletravel HD (OFF NV)
+http://slynet4.8nio.com/teletravelhd_sly.m3u8
+#EXTINF:0,TLC
+http://slynet4.8nio.com/CH_C02_TLC/variant.m3u8
+#EXTINF:0,TLC (Резерв)
+http://slynet4.8nio.com/mn_tlc_sly.m3u8
+#EXTINF:0,TLC HD
+http://j.mp/ZCH_C04_TLCHD_sly?.m3u8
+#EXTINF:0,Travel Channel (OFF LLC)
+http://slynet4.8nio.com/llc_travelchannel_sly.m3u8
+#EXTINF:0,Travel Channel HD (VG)
+http://slynet4.8nio.com/vg_travelchannelhd_sly.m3u8
+#EXTINF:0,Travel+Adventure HD
+http://j.mp/ZCH_C02_TRAVELCHANNELHD_sly?.m3u8
+#EXTINF:0,TV Фильмец Дня от SlyNet 
+http://www.ex.ua/get/16968823
+#EXTINF:0,TV Мультец Дня от SlyNet 
+http://www.ex.ua/get/134989092
+#EXTINF:0,TV 1000 
+http://j.mp/ZCH_C02_TV10002_sly?.m3u8
+#EXTINF:0,TV 1000 Action
+http://slynet4.8nio.com/be_tv1000action_sly.m3u8
+#EXTINF:0,TV 1000 Comedy HD
+http://slynet4.8nio.com/CH_C03_TV1000COMEDYHD/variant.m3u8
+#EXTINF:0,TV 1000 Comedy HD (Резерв)
+http://j.mp/ZCH_C03_TV1000COMEDYHD2_sly?.m3u8
+#EXTINF:0,TV 1000 Megahit HD 
+http://slynet4.8nio.com/CH_C04_TV1000MEGAHITHD/variant.m3u8
+#EXTINF:0,TV 1000 Premium HD (EM Test)
+http://slynet4.8nio.com/em_tv1000premiumhd_sly.m3u8
+#EXTINF:0,TV 1000 Premium HD (RT Test)
+http://slynet4.8nio.com/rt_tv1000premiumhd_sly.m3u8
+#EXTINF:0,TV 1000 Русское кино 
+http://j.mp/ZCH_C01_TV1000RUS2_sly?.m3u8
+#EXTINF:0 group-title="Не работают",TV5 Monde Europe (не работает)
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C02_TV5MONDE/variant.m3u8?version=2
+#EXTINF:0,TVM Channel
+http://j.mp/BTV_TVM_Channel_sly?.m3u8
+#EXTINF:0,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,VH1 Classic
+http://slynet4.8nio.com/vh1classic_sly.m3u8
+#EXTINF:0,Viasat Explorer
+http://j.mp/BO_VIASATEXPLORER_sly?.m3u8
+#EXTINF:0 group-title="Не работают",Viasat Golf HD (не работает)
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2
+#EXTINF:0,Viasat History 
+http://j.mp/BO_VIASATHISTORY_sly?.m3u8
+#EXTINF:0,Viasat Nature (MX)
+http://slynet4.8nio.com/mx_viasatnature_sly.m3u8
+#EXTINF:0,Viasat Nature/History HD  
+http://j.mp/ZCH_C03_VIASATNATUREHISTORYHD2_sly?.m3u8
+#EXTINF:0,Viasat Sport 
+http://j.mp/ZCH_C01_VIASATSPORT_sly?.m3u8
+#EXTINF:0 group-title="Не работают",Viasat Sport HD  (не работает)
+http://fe-sth.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
+#EXTINF:0,WBC
+http://slynet4.8nio.com/kuz_wbc_sly.m3u8
+#EXTINF:0,XXI
+http://slynet4.8nio.com/p_tv21_sly.m3u8
+#EXTINF:0,Zee TV (OFF LLC)
+http://slynet4.8nio.com/llc_zeetv_sly.m3u8
+#EXTINF:0,ZooПарк 
+http://slynet4.8nio.com/bs_zoopark_sly.m3u8
+#EXTINF:0,Zoo TV (TeVy)
+http://air.televyshka.ru:900/71
+#EXTINF:0,Авто плюс 
+http://j.mp/ZCH_C05_AVTOPLUS_sly?.m3u8
+#EXTINF:0,Авто 24 (OFF NL)
+http://j.mp/NLAvto24_sly?.m3u8
+#EXTINF:0,Астрахань 24 HD
+http://j.mp/BASTRAHANHD_sly?.m3u8
+#EXTINF:0,Беларусь 1
+http://j.mp/S_BELARUS1_sly?.m3u8
+#EXTINF:0,Беларусь 24
+http://j.mp/S_belarus24_sly?.m3u8
+#EXTINF:0,Бобер (RT Test)
+http://slynet4.8nio.com/rt_bober_sly.m3u8
+#EXTINF:0,Бокс ТВ
+http://j.mp/P_BOXTV2_sly?.m3u8
+#EXTINF:0,Боец
+http://slynet4.8nio.com/p_boets_sly.m3u8
+#EXTINF:0,Бойцовский клуб (RT Test)
+http://slynet4.8nio.com/rt_boicovskiyclub_sly.m3u8
+#EXTINF:0,Вопросы и Ответы
+http://slynet4.8nio.com/be_voprosotvet_sly.m3u8
+#EXTINF:0,Время
+http://slynet4.8nio.com/mn_vremya_sly.m3u8
+#EXTINF:0,ВМЕСТЕ-РФ
+http://j.mp/P_vmeste_rf_sly?.m3u8
+#EXTINF:0,Детский
+http://slynet4.8nio.com/p_detskiy_sly.m3u8
+#EXTINF:0,Дисней
+http://j.mp/BO_DISNEY_sly?.m3u8
+#EXTINF:0,Дисней +2
+http://slynet4.8nio.com/kuz_disney_sly.m3u8
+#EXTINF:0,Для Двоих 
+http://j.mp/S_DLYA_DVOIH_sly?.m3u8
+#EXTINF:0,Для Двоих HD
+http://j.mp/S_DLYA_DVOIHHD_sly?.m3u8
+#EXTINF:0,Дождь
+http://slynet4.8nio.com/mn_dozhd_sly.m3u8
+#EXTINF:0,Дождь (Резерв)
+http://slynet4.8nio.com/p_dozhd_sly.m3u8
+#EXTINF:0,Дом кино
+http://j.mp/ZCH_C04_DOMKINO_sly?.m3u8
+#EXTINF:0,Дом кино премиум HD 
+http://j.mp/ZCH_C01_DOMKINOPREMIUMHD2_sly?.m3u8
+#EXTINF:0,Домашний 
+http://j.mp/ZCH_R04_DOMASHNY_sly?.m3u8
+#EXTINF:0,Домашний +4
+http://slynet4.8nio.com/kuz_domashniy_sly.m3u8
+#EXTINF:0,Домашние животные (VT)
+http://slynet4.8nio.com/vt_domashniezhivotnie_sly.m3u8
+#EXTINF:0,Драйв (RT Test)
+http://slynet4.8nio.com/rt_drive_sly.m3u8
+#EXTINF:0,Еврокино
+http://slynet4.8nio.com/p_eurokino_sly.m3u8
+#EXTINF:0,ЕДА HD
+http://j.mp/EDAHD_sly?.m3u8
+#EXTINF:0,Живи 
+http://j.mp/PZHIVI_sly?.m3u8
+#EXTINF:0 group-title="Не работают",Живи HD  (не работает)
+http://fe-sib.svc.iptv.rt.ru/hls/CH_C04_HDZHIVI/variant.m3u8?version=2
+#EXTINF:0,Звезда
+http://slynet4.8nio.com/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:0,Здоровое ТВ
+http://slynet4.8nio.com/CH_C02_ZDOROVOETV/variant.m3u8
+#EXTINF:0,Индия ТВ 
+http://j.mp/BINDIA_sly?.m3u8
+#EXTINF:0,Иллюзион+
+http://j.mp/B_illuzionplus_sly?.m3u8
+#EXTINF:0,История 
+http://j.mp/ZCH_C06_ISTORIYA_sly?.m3u8
+#EXTINF:0,КХЛ 
+http://j.mp/ZCH_C01_KHL2_sly?.m3u8
+#EXTINF:0,КХЛ HD
+http://j.mp/ZCH_C02_KHLHD_sly?.m3u8
+#EXTINF:0,Карапуз ТВ
+http://slynet4.8nio.com/karapuztv_sly.m3u8
+#EXTINF:0,Карусель 
+http://j.mp/ZCH_R01_KARUSEL2_sly?.m3u8
+#EXTINF:0,Кино ТВ 
+http://j.mp/ZCH_C04_KINOTV_sly?.m3u8
+#EXTINF:0,Кинопоказ (OFF Ufa)
+http://slynet4.8nio.com/kinopokaz_sly.m3u8
+#EXTINF:0,Кинопоказ HD-1 (OFF TN)
+http://slynet4.8nio.com/tn_kinopokazhd1_sly.m3u8
+#EXTINF:0,Кинопоказ HD-2 (OFF TN)
+http://slynet4.8nio.com/tn_kinopokazhd2_sly.m3u8
+#EXTINF:0,Наше HD (OFF TN)
+http://slynet4.8nio.com/tn_nashehd_sly.m3u8
+#EXTINF:0,Остросюжетное HD (OFF TN)
+http://slynet4.8nio.com/tn_ostrosuzhetnoehd_sly.m3u8
+#EXTINF:0,Семейное HD (OFF TN)
+http://slynet4.8nio.com/tn_semeynoehd_sly.m3u8
+#EXTINF:-1,Eureka HD (OFF TN)
+http://slynet4.8nio.com/tn_eurekahd_sly.m3u8
+#EXTINF:0,Охотник и рыболов HD (OFF TN)
+http://slynet4.8nio.com/tn_ohotnikirybahd_sly.m3u8
+#EXTINF:0,Кинорейс 
+http://j.mp/T_KINOREIS_sly?.m3u8
+#EXTINF:0,Кинорейс 2 
+http://j.mp/T_KINOREIS2_sly?.m3u8
+#EXTINF:0,Комедия 
+http://j.mp/ZCH_C01_COMEDY2_sly?.m3u8
+#EXTINF:0,Кто есть кто (VG)
+http://slynet4.8nio.com/vg_ktoestkto_sly.m3u8
+#EXTINF:0,Кухня ТВ (OFF Ufa)
+http://slynet4.8nio.com/kuhnyatv_sly.m3u8
+#EXTINF:0,Любимое Кино (TeVy)
+http://j.mp/TV_LUBIMOEKINO_sly?.m3u8
+#EXTINF:0,Ля-минор (AR)
+http://slynet4.8nio.com/ar_lyaminor_sly.m3u8
+#EXTINF:0,Ля-минор (RT Test)
+http://slynet4.8nio.com/rt_lyaminor_sly.m3u8
+#EXTINF:0,Мама 
+http://j.mp/ZCH_C01_MOTHERCHILDREN2_sly?.m3u8
+#EXTINF:0,Матч ТВ 
+http://slynet4.8nio.com/CH_R04_MATCHTV/variant.m3u8
+#EXTINF:0,Матч ТВ (резерв)
+http://slynet4.8nio.com/be_matchtv_sly.m3u8
+#EXTINF:0,Матч ТВ (резерв 2)
+http://slynet4.8nio.com/matchtv_sly.m3u8
+#EXTINF:0,Матч ТВ (Регион.)
+http://slynet4.8nio.com/kuz_matchtv_sly.m3u8
+#EXTINF:0,Мир
+http://slynet4.8nio.com/be_mir_sly.m3u8
+#EXTINF:0,Мир +3
+http://slynet4.8nio.com/mir_sly.m3u8
+#EXTINF:0,Мир HD (OFF NV)
+http://slynet4.8nio.com/mirhd_sly.m3u8
+#EXTINF:0,Мир 24
+http://slynet4.8nio.com/p_mir24_sly.m3u8
+#EXTINF:0,Мир 24 (Резерв)
+http://j.mp/SMIR24_sly?.m3u8
+#EXTINF:-1,Мир сериала 
+http://slynet4.8nio.com/mn_mirseriala_sly.m3u8
+#EXTINF:0,Много TV (AR)
+http://slynet4.8nio.com/ar_mnogotv_sly.m3u8
+#EXTINF:0,Моя планета 
+http://slynet4.8nio.com/CH_C04_MYPLANET/variant.m3u8
+#EXTINF:0,Моя планета (MX)
+http://slynet4.8nio.com/mx_myplanet_sly.m3u8
+#EXTINF:-1,Москва 24
+http://j.mp/T_MOSKVA24_sly?.m3u8
+#EXTINF:0,Муз ТВ 
+http://slynet4.8nio.com/CH_C04_MUZTV/variant.m3u8
+#EXTINF:0,Муз ТВ (Резерв)
+http://slynet4.8nio.com/mn_muztv_sly.m3u8
+#EXTINF:0,Музыка Первого (OFF Ufa)
+http://slynet4.8nio.com/musicpervogo_sly.m3u8 
+#EXTINF:0,Мужской
+http://j.mp/P_MUZHSKOY_sly?.m3u8
+#EXTINF:0,Мужское кино (OFF NV)
+http://slynet4.8nio.com/muzhskoekino_sly.m3u8
+#EXTINF:0,Мульт
+http://j.mp/KUZ_MULT_sly?.m3u8
+#EXTINF:0,Мультимания
+http://j.mp/T_MULTIMANIA_sly?.m3u8
+#EXTINF:0,Наука 2.0 
+http://slynet4.8nio.com/CH_C06_NAUKA20/variant.m3u8
+#EXTINF:0,Ностальгия
+http://slynet4.8nio.com/nostalgiya_sly.m3u8
+#EXTINF:0,НСТ 
+http://j.mp/ZCH_C02_NSTV2_sly?.m3u8
+#EXTINF:0,НТВ
+http://slynet4.8nio.com/CH_R03_NTV/variant.m3u8
+#EXTINF:0,НТВ +4
+http://slynet4.8nio.com/kuz_ntv_sly.m3u8
+#EXTINF:0,НТВ Мир (не работает)
+http://j.mp/NTV_MIR_sly?.m3u8
+#EXTINF:0,НТВ-ПЛЮС Наше Кино (VG)
+http://slynet4.8nio.com/vg_ntvplusnashekino_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Кинохит (MX)
+http://slynet4.8nio.com/mx_ntvpluskinohit_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Наше новое кино (VG)
+http://slynet4.8nio.com/vg_ntvplusnashenovoekino_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Премьера (MX) 
+http://slynet4.8nio.com/mx_ntvpluspremiera_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Киноклуб (MX)
+http://slynet4.8nio.com/mx_ntvpluskinoklub_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС КИНОПЛЮС (MX)
+http://slynet4.8nio.com/mx_ntvpluskinoplus_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС КИНОПЛЮС  (Резерв)
+http://slynet4.8nio.com/p_ntvpluskinoplus_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС КИНОСОЮЗ (AR)
+http://j.mp/AR_kinosoyuz_sly?.m3u8
+#EXTINF:0,НТВ-ПЛЮС Спорт (VG)
+http://slynet4.8nio.com/vg_ntvsport_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Спорт плюс 
+http://j.mp/B_NTVSPORTPLUS_sly?.m3u8
+#EXTINF:0,НТВ-ПЛЮС Наш Футбол (AR)
+http://j.mp/AR_nashfootball_sly?.m3u8
+#EXTINF:0,НТВ-ПЛЮС Наш футбол HD (VG)
+http://slynet4.8nio.com/vg_ntvnashfootballhd_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 
+http://slynet4.8nio.com/mn_ntvfootball_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол (Резерв)
+http://j.mp/Bfootball_sly?.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 1 (VG)
+http://slynet4.8nio.com/vg_ntvfootball1_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 1 (AR)
+http://slynet4.8nio.com/ar_ntvfootball1_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 1 HD (VG) 
+http://slynet4.8nio.com/vg_ntvfootball1hd_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 2 (AR)
+http://slynet4.8nio.com/ar_ntvfootball2_sly.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 2
+http://j.mp/NTVPLUSFOOTBALL2_sly?.m3u8
+#EXTINF:0 group-title="Не работают",НТВ-ПЛЮС Футбол 2 HD (не работает)
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_HDFOOTBALL2/variant.m3u8?version=2
+#EXTINF:0,НТВ-ПЛЮС Футбол 3 (AR)
+http://j.mp/AR_ntvfootball3_sly?.m3u8
+#EXTINF:0 group-title="Не работают",НТВ-ПЛЮС Футбол 3 HD (не работает)
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C01_HDFOOTBALL3/variant.m3u8?version=2
+#EXTINF:0,НТВ-ПЛЮС БАСКЕТБОЛ
+http://j.mp/T_NTVPLUSBASKETBOL_sly?.m3u8
+#EXTINF:0,НТВ-ПЛЮС Теннис(AR)
+http://j.mp/AR_ntvtennis_sly?.m3u8
+#EXTINF:0,ОТР
+http://slynet4.8nio.com/CH_C01_OTR/variant.m3u8
+#EXTINF:0,Оружие 
+http://j.mp/ZCH_C06_ORUZHIE2_sly?.m3u8
+#EXTINF:0,Охота и рыбалка 
+http://j.mp/ZCH_C01_OKHOTAIRYBALKA2_sly?.m3u8
+#EXTINF:0,Охотник и рыболов (TeVy)
+http://j.mp/TV_OHOTNIKIRIBOLOV_sly?.m3u8
+#EXTINF:0,Парк развлечений
+http://j.mp/P_ipark_sly?.m3u8
+#EXTINF:0,Первый канал
+http://slynet4.8nio.com/CH_R03_1TV/variant.m3u8
+#EXTINF:0,Первый канал (Резерв)
+http://slynet4.8nio.com/CH_R03_1TVrezerv/variant.m3u8
+#EXTINF:-1,Первый +4
+
+http://slynet4.8nio.com/mn_perviy_sly.m3u8
+#EXTINF:0,Первый канал HD (EM Test)
+http://slynet4.8nio.com/em_perviyhd_sly.m3u8
+#EXTINF:0,Перец 
+http://slynet4.8nio.com/CH_R02_PERETZ/variant.m3u8
+#EXTINF:0,Перец +4
+http://j.mp/kuz_perec_sly?.m3u8
+#EXTINF:0,ПИК ТВ HD
+http://j.mp/P_pik_hd_sly?.m3u8
+#EXTINF:0,Планета
+http://j.mp/T_PLANETA_sly?.m3u8
+#EXTINF:0,Познавательное HD
+http://j.mp/poznavatelnoe_sly?.m3u8
+#EXTINF:0,Просвещение
+http://slynet4.8nio.com/p_prosvewenie_sly.m3u8
+#EXTINF:0,Пятница 
+http://slynet4.8nio.com/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:0,Пятница +2
+http://slynet4.8nio.com/kuz_pyatnica_sly.m3u8
+#EXTINF:0,Пятый канал России 
+http://slynet4.8nio.com/CH_R02_5TV/variant.m3u8
+#EXTINF:0,Пятый канал +4
+http://slynet4.8nio.com/kuz_5tvrus_sly.m3u8
+#EXTINF:0,Радость Моя
+http://j.mp/ZCH_C03_RADOSTMOYA2_sly?.m3u8
+#EXTINF:0,Раз ТВ (TeVy)
+http://j.mp/TV_RAZTV_sly?.m3u8
+#EXTINF:0,РБК
+http://slynet4.8nio.com/rbk_sly.m3u8
+#EXTINF:0,РЕН ТВ 
+http://slynet4.8nio.com/CH_R02_RENTV/variant.m3u8
+#EXTINF:0,РЕН ТВ (16х9)
+http://j.mp/RENTV_16x9_sly?.m3u8
+#EXTINF:0,Рен ТВ +4
+http://slynet4.8nio.com/kuz_rentv_sly.m3u8
+#EXTINF:0,Ретро
+http://slynet4.8nio.com/be_retro_sly.m3u8
+#EXTINF:0,РЖД ТВ
+rtmp://tva.cdnvideo.ru/tva/tva.sdp
+#EXTINF:0,РЖД ТВ (Резерв)
+http://j.mp/RZHD_sly?.m3u8
+#EXTINF:0,РИА Новости
+http://j.mp/S_RIANOVOSTI_sly?.m3u8
+#EXTINF:0,Россия 1 
+http://slynet4.8nio.com/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:0,Россия 1 +4
+http://hlstv.kuz.211.ru/239.211.4.2/stream.m3u8
+#EXTINF:0,Россия 24 
+http://slynet4.8nio.com/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:0,Россия 24 (16х9) 
+http://j.mp/BTV_RUSSIA24_16x9_sly?.m3u8
+#EXTINF:0,Россия 24 (16х9) (Резерв)
+http://j.mp/russia2416x9_sly?.m3u8
+#EXTINF:0,Россия-24 Екатеринбург
+http://slynet4.8nio.com/CH_R01_ROSSIA24_URAL_EKT/variant.m3u8
+#EXTINF:0,Россия HD 
+http://slynet4.8nio.com/p_russiahd_sly.m3u8
+#EXTINF:0,Россия К 
+http://slynet4.8nio.com/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:0,Россия К +4
+http://slynet4.8nio.com/kuz_russiak_sly.m3u8
+#EXTINF:0,Россия РТР
+http://j.mp/T_RUSSIA_RTR_sly?.m3u8
+#EXTINF:0,Русский детектив (не работает)
+http://j.mp/ZCH_C04_RUSSIANDETECTIVE2_sly?.m3u8
+#EXTINF:0,Русский бестселлер
+http://slynet4.8nio.com/mn_rusbestseller_sly.m3u8
+#EXTINF:0,Русский роман 
+http://j.mp/ZCH_C01_RUSROMAN2_sly?.m3u8
+#EXTINF:0,Русский Иллюзион
+http://slynet4.8nio.com/p_illuzionrus_sly.m3u8
+#EXTINF:0,Русский экстрим
+http://slynet4.8nio.com/bs_russkiyextrim_sly.m3u8
+#EXTINF:0,Русская Эстрада HD
+rtmp://78.140.209.20:1935/tv/ruestrada2
+#EXTINF:0,Рыжий
+http://j.mp/B_RYZHIY_sly?.m3u8
+#EXTINF:0,СТС 
+http://j.mp/ZCH_R02_STS3_sly?.m3u8
+#EXTINF:0,СТС +4
+http://slynet4.8nio.com/kuz_sts_sly.m3u8
+#EXTINF:0,СТС Прима
+http://slynet4.8nio.com/mn_stsprima_sly.m3u8
+#EXTINF:0,СТС Мир
+http://j.mp/P_STSMIR_sly?.m3u8
+#EXTINF:0,СТС Love
+http://slynet4.8nio.com/kuz_stslove_sly.m3u8
+#EXTINF:0,СТРК HD
+http://j.mp/STRKHD_sly?.m3u8
+#EXTINF:0,Сарафан 
+http://slynet4.8nio.com/mn_sarafan_sly.m3u8
+#EXTINF:0,Совершенно секретно (AR)
+http://slynet4.8nio.com/ar_sovsecretno_sly.m3u8
+#EXTINF:0,Союз 
+http://j.mp/KUZ_SOYUZ_sly?.m3u8
+#EXTINF:0,Спас
+http://slynet4.8nio.com/kuz_spas_sly.m3u8
+#EXTINF:0,Спорт
+http://slynet4.8nio.com/be_sport_sly.m3u8
+#EXTINF:0,Спорт 1 
+http://slynet4.8nio.com/p_sport1_sly.m3u8
+#EXTINF:0,Спорт 1 HD
+http://j.mp/sport1hd_sly?.m3u8
+#EXTINF:0,Страна 
+http://j.mp/ZCH_C05_STRANA_sly?.m3u8
+#EXTINF:0,Страшное HD (не работает)
+http://j.mp/ZCH_C01_STRASHNOEHD_sly?.m3u8
+#EXTINF:0,Телекафе
+http://slynet4.8nio.com/mn_telekafe_sly.m3u8
+#EXTINF:0,Телеклуб (TeVy)
+http://j.mp/TV_TELEKLUB_sly?.m3u8
+#EXTINF:0,Телепутешествия (TeVy)
+http://j.mp/TV_TELEPUTESHESTVIYA_sly?.m3u8
+#EXTINF:0,ТВ3 
+http://j.mp/ZCH_R01_TV32_sly?.m3u8
+#EXTINF:0,ТВ3 (Резерв)
+http://slynet4.8nio.com/CH_R01_TV3/variant.m3u8
+#EXTINF:0,ТВ3 +3
+http://slynet4.8nio.com/kuz_tv3_sly.m3u8
+#EXTINF:-1,ТВ3 +4
+http://slynet4.8nio.com/mn_tv3_sly.m3u8
+#EXTINF:0,ТВЦ
+http://slynet4.8nio.com/CH_R04_TVC/variant.m3u8
+#EXTINF:0,ТВЦ (Резерв)
+http://slynet4.8nio.com/CH_R04_TVCrezerv/variant.m3u8
+#EXTINF:-1,ТВЦ +4
+
+http://slynet4.8nio.com/mn_tvc_sly.m3u8
+#EXTINF:0,ТНТ 
+http://slynet4.8nio.com/CH_R01_TNT/variant.m3u8
+#EXTINF:0,ТНТ +4
+http://slynet4.8nio.com/kuz_tnt_sly.m3u8
+#EXTINF:0,ТНТ Comedy 
+http://slynet4.8nio.com/mn_tntcomedy_sly.m3u8
+#EXTINF:0,ТНТ Comedy (Резерв)
+http://slynet4.8nio.com/be_tntcomedy_sly.m3u8
+#EXTINF:0,ТРО
+http://slynet4.8nio.com/be_tro_sly.m3u8
+#EXTINF:0,Улыбка Ребенка
+http://slynet4.8nio.com/p_ulibkarebenka_sly.m3u8
+#EXTINF:-1,Усадьба
+
+http://slynet4.8nio.com/mn_usadba_sly.m3u8
+#EXTINF:0,Успех 
+http://slynet4.8nio.com/p_uspex_sly.m3u8
+#EXTINF:0,Феникс плюс кино
+http://j.mp/B_FENIXKINO_sly?.m3u8
+#EXTINF:0,Шансон-ТВ
+http://j.mp/ZCH_C05_SHANSONTV2_sly?.m3u8
+#EXTINF:0,Эфир-24
+http://j.mp/S_EFIR24TV_sly?.m3u8
+#EXTINF:0,Ю 
+http://slynet4.8nio.com/CH_R03_U/variant.m3u8
+#EXTINF:0,Ю +3
+http://slynet4.8nio.com/kuz_u_sly.m3u8
+#EXTINF:0,Юмор Box
+http://slynet4.8nio.com/p_yumortv_sly.m3u8
+#EXTINF:-1,Jasmin TV (18+) 
+http://j.mp/S_JASMIN_sly?.m3u8
+#EXTINF:0,Jasmin TV HD (18+) 
+http://j.mp/S_JasminTVHD_sly?.m3u8
+#EXTINF:0,Blue hustler (18+)
+http://j.mp/ZCH_C03_BLUEHUSTLER2_sly?.m3u8
+#EXTINF:0,XXL (18+) (не работает)
+http://j.mp/ZCH_C03_XXL3_sly?.m3u8
+#EXTINF:0,Brazzers TV (18+) 
+http://slynet4.8nio.com/CH_C04_BRAZZERSTV/variant.m3u8
+#EXTINF:0,Русская ночь (18+)
+http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
+#EXTINF:0,О-ля-ля (18+) 
+http://j.mp/ZCH_C06_OLALA2_sly?.m3u8
+#EXTINF:0,Соблазн (18+) 
+http://j.mp/SOBLAZN_sly?.m3u8
+#EXTINF:0,Egoist.tv (18+) (AR)
+http://j.mp/AR_egoisttv_sly?.m3u8
+#EXTINF:0,ТВ-ТРЕЙЛЕР 
+http://j.mp/P_TVRAILER_sly?.m3u8
+#EXTINF:0,ТВ-ТРЕЙЛЕР 2
+http://j.mp/S_TVRAILER2_sly?.m3u8
+#EXTINF:0,КиноМеню HD
+http://j.mp/T_KINOMENUHD_sly?.m3u8
+#EXTINF:0,112 
+http://slynet4.8nio.com/ln_112_sly.m3u8
+#EXTINF:0,112 HD
+http://j.mp/112HD_sly?.m3u8
+#EXTINF:0,1+1 
+http://slynet4.8nio.com/ln_1plus1_sly.m3u8
+#EXTINF:0,1+1 International (VG)
+http://slynet4.8nio.com/vg_1plus1_int_sly.m3u8
+#EXTINF:0,100% NEWS
+http://j.mp/100NEWS_sly?.m3u8
+#EXTINF:0,2+2 
+http://slynet4.8nio.com/ln_2plus2_sly.m3u8
+#EXTINF:12,3S.TV
+http://slynet4.8nio.com/ln_3stv_sly.m3u8
+#EXTINF:0,5 канал Украина
+http://slynet4.8nio.com/ln_5kanalua_sly.m3u8
+#EXTINF:0,A-one UA (MX)
+http://slynet4.8nio.com/mx_aoneua_sly.m3u8
+#EXTINF:0,ATR
+http://slynet4.8nio.com/atr_sly.m3u8
+#EXTINF:0,Business (MX)
+http://slynet4.8nio.com/mx_business_sly.m3u8
+#EXTINF:0,Eco-TV (OFF NL)
+http://j.mp/IPEcoTV_sly?.m3u8
+#EXTINF:0,Ентер Фільм (MX)
+http://slynet4.8nio.com/mx_enterfilm_sly.m3u8
+#EXTINF:0,Gamma (MX)
+http://slynet4.8nio.com/mx_gamma_sly.m3u8
+#EXTINF:0,ICTV (MX)
+http://slynet4.8nio.com/mx_ictv_sly.m3u8
+#EXTINF:0,News Network (VG)
+http://slynet4.8nio.com/vg_newsnetwork_sly.m3u8
+#EXTINF:0,News One
+http://j.mp/UA_NEWSONE_sly?.m3u8
+#EXTINF:0,News One (MX)
+http://slynet4.8nio.com/mx_newsone_sly.m3u8
+#EXTINF:0,News One (Резерв)
+rtmp://176.111.63.130:1935/newsone/480
+#EXTINF:0,News One HD
+rtmp://176.111.63.130:1935/newsone/720
+#EXTINF:0,М1 (MX)
+http://slynet4.8nio.com/mx_m1_sly.m3u8
+#EXTINF:0,М2 (MX)
+http://slynet4.8nio.com/mx_m2_sly.m3u8
+#EXTINF:0,Music Box UA (MX)
+http://slynet4.8nio.com/mx_musicboxua_sly.m3u8
+#EXTINF:0,Maxxi-TV (MX)
+http://slynet4.8nio.com/mx_maxxi_sly.m3u8
+#EXTINF:0,Mi lady (OFF NL)
+http://193.176.251.228:8000/TBI
+#EXTINF:0,OTV Music (MX)
+http://slynet4.8nio.com/mx_otv_sly.m3u8
+#EXTINF:0,EU Music UA (MX)
+http://slynet4.8nio.com/mx_eumusic_sly.m3u8
+#EXTINF:0,RTI HD
+http://slynet4.8nio.com/rtihd_sly.m3u8
+#EXTINF:0,UBR News (MX)
+http://slynet4.8nio.com/mx_ubr_sly.m3u8
+#EXTINF:0,QTV (MX) 
+http://slynet4.8nio.com/mx_qtv_sly.m3u8
+#EXTINF:0,ZIK
+http://slynet4.8nio.com/ln_zik_sly.m3u8
+#EXTINF:0,ZOOM (OFF NL)
+http://193.176.251.228:8000/ZOOM
+#EXTINF:0,Бигуди
+http://slynet4.8nio.com/ln_bigudi_sly.m3u8
+#EXTINF:0,Глас (VG)
+http://slynet4.8nio.com/vg_glas_sly.m3u8
+#EXTINF:0,Громадське-TB
+http://slynet4.8nio.com/ln_hromadsketv_sly.m3u8
+#EXTINF:0,Гумор ТВ (OFF NL)
+http://j.mp/NL_GUMORTV_sly?.m3u8
+#EXTINF:0,Донбасс (OFF NL)
+http://j.mp/NL_DONBASS_sly?.m3u8
+#EXTINF:0,Еспресо TV
+http://slynet4.8nio.com/ln_espresotv_sly.m3u8
+#EXTINF:0,Еспресо TV HD
+http://slynet4.8nio.com/ln_espresotvhd_sly.m3u8
+#EXTINF:0,Интер (Резерв)
+http://j.mp/UAT_INTER_sly?.m3u8
+#EXTINF:0,Интер (MX)
+http://slynet4.8nio.com/mx_inter_sly.m3u8
+#EXTINF:0,Интер (Резерв 2)
+http://j.mp/UAINTER_sly?.m3u8
+#EXTINF:0,Интер Плюс (OFF NL)
+http://j.mp/NL_INTERPLUS_sly?.m3u8
+#EXTINF:0,Індиго ТВ (OFF NL)
+http://193.176.251.228:8000/Indigo
+#EXTINF:0,К1 (MX)
+http://slynet4.8nio.com/mx_k1_sly.m3u8
+#EXTINF:0,К1 (Резерв) 
+http://109.68.40.70:1935/castGeo/k1_3/playlist.m3u8
+#EXTINF:0,К2 (MX)
+http://slynet4.8nio.com/mx_k2_sly.m3u8
+#EXTINF:0,КРТ (MX)
+http://slynet4.8nio.com/mx_krt_sly.m3u8
+#EXTINF:0,Малятко ТВ (MX)
+http://slynet4.8nio.com/mx_malyatko_sly.m3u8
+#EXTINF:0,Мега (MX)
+http://slynet4.8nio.com/mx_mega_sly.m3u8
+#EXTINF:0,НЛО TV (OFF NL)
+http://193.176.251.228:8000/NloTV
+#EXTINF:0,НТН (MX)
+http://slynet4.8nio.com/mx_ntn_sly.m3u8
+#EXTINF:0,НТН (резерв 2)
+http://j.mp/UAT_NTN_sly?.m3u8
+#EXTINF:0,НТН (резерв)
+http://109.68.40.70:1935/castGeo/ntn_3/playlist.m3u8
+#EXTINF:0,Новый Канал (MX)
+http://slynet4.8nio.com/mx_noviykanal_sly.m3u8
+#EXTINF:0,Первый Автомобильный (MX)
+http://slynet4.8nio.com/mx_1auto_sly.m3u8
+#EXTINF:0,Первый Деловой (OFF NL)
+http://193.176.251.228:8000/1Delovoy
+#EXTINF:0,Перший (MX)
+http://slynet4.8nio.com/mx_ut1_sly.m3u8
+#EXTINF:0,Перший UA
+http://j.mp/UAT_PERSHIY_sly?.m3u8
+#EXTINF:0,Перший (резерв)
+http://109.68.40.70:1935/castGeo/ut1_3/playlist.m3u8
+#EXTINF:0,ПлюсПлюс
+http://slynet4.8nio.com/ln_plusplus_sly.m3u8
+#EXTINF:0,Пиксель (MX)
+http://slynet4.8nio.com/mx_pixel_sly.m3u8
+#EXTINF:0,Рада
+http://slynet4.8nio.com/ln_rada_sly.m3u8
+#EXTINF:0,Сонце (VG)
+http://slynet4.8nio.com/vg_sonce_sly.m3u8
+#EXTINF:0,СТБ (MX)
+http://slynet4.8nio.com/mx_stb_sly.m3u8
+#EXTINF:0,ТЕТ
+http://slynet4.8nio.com/ln_tet_sly.m3u8
+#EXTINF:0,ТРК Украина (MX)
+http://slynet4.8nio.com/mx_trkukraine_sly.m3u8
+#EXTINF:0,Телеканал новостей 24
+http://slynet4.8nio.com/ln_news24ua_sly.m3u8
+#EXTINF:0,Телеканал новостей 24 (MX)
+http://slynet4.8nio.com/mx_news24ua_sly.m3u8
+#EXTINF:0,Тонис (MX)
+http://slynet4.8nio.com/mx_tonis_sly.m3u8
+#EXTINF:0,Тонис HD (MX) 
+http://slynet4.8nio.com/mx_tonishd_sly.m3u8
+#EXTINF:0,Трофей (OFF NL)
+http://j.mp/NLTROFEY_sly?.m3u8
+#EXTINF:0,Трофей HD
+http://j.mp/TROFEYHD_sly?.m3u8
+#EXTINF:0,Україна 24
+http://j.mp/TUKRAINE24_sly?.m3u8
+#EXTINF:0,УНИАН ТВ
+http://slynet4.8nio.com/ln_uniantv_sly.m3u8
+#EXTINF:0,ЧП.INFO
+http://j.mp/UAT_CHPINFO_sly?.m3u8
+#EXTINF:0,Спорт 1 UA (MX)
+http://slynet4.8nio.com/mx_sport1ua_sly.m3u8
+#EXTINF:0,СПОРТ 1 Украина
+http://slynet4.8nio.com/sport1ua_sly.m3u8
+#EXTINF:0,СПОРТ 1 Украина (Раб.только в Укр.)
+rtmp://rtmp.pvplus.tv:80/rtmp/sport1b1ua
+#EXTINF:0,СПОРТ 2 Украина
+http://slynet4.8nio.com/sport2ua_sly.m3u8
+#EXTINF:0,СПОРТ 2 Украина (Раб.только в Укр.)
+rtmp://rtmp.pvplus.tv:80/rtmp/sport2b1ua
+#EXTINF:0,Футбол 1 Украина (MX)
+http://slynet4.8nio.com/mx_football1ua_sly.m3u8
+#EXTINF:0,Футбол 2 Украина (DF) 
+http://slynet4.8nio.com/df_football2ua_sly.m3u8
+#EXTINF:0,Новороссия ТВ
+http://j.mp/UA_ZHOPOROSSIA_sly?.m3u8
+#EXTINF:0,Луганск 24
+rtmp://live.lnr.tv/live/stream
+#EXTINF:0,Юнион
+http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3u8
+#EXTINF:0,1 Приднестровский
+http://j.mp/1PRIDNESTROVIEHD_sly?.m3u8
+
+
+#EXTINF:0,=== ИНФОРМАЦИЯ ===
+http://j.mp/PromoZabavaSlyUkraine?.m3u8
+#EXTINF:0,=== sly & oknijb234 for 4pda
+http://j.mp/PromoZabavaSlyUkraine?.m3u8
+#EXTINF:0,=== Последнее обновление 06.11.15
+http://j.mp/PromoZabavaSlyUkraine?.m3u8
+#EXTINF:0,=== Самообновляемый плейлист ZabavaSlyUkraine_v.7.2s
+http://j.mp/ZabavaSlyUkraine
+#EXTINF:0,=== v7.2s  ====
+http://j.mp/PromoZabavaSlyUkraine?.m3u8
+#EXTINF:0,= Наша группа ВКонтакте http://vk.com/clubSlyNet
+http://vk.com/clubslynet
+#EXTINF:0,== http://vk.com/clubSlyNet
+#EXTINF:0,http://vk.com/clubSlyNet
+http://vk.com/clubSlyNet
+
