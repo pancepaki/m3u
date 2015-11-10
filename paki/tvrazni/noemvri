@@ -110,13 +110,10 @@ http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/playlist.m3u8
 #EXTINF:0,Miami TV Music
 mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
-
 #EXTINF:0,O2
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8
 #EXTINF:0,SITEL
 http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
-#EXTINF:0,SPORT 5 (Чехия)
-http://212.79.96.134:8023
 #EXTINF:0,STV Osijek
 mms://89.201.164.181/stv
 #EXTINF:0,Studentska TV
