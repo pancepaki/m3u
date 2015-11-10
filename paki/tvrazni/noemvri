@@ -509,3 +509,7 @@ http://bal.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1446137
 #EXTINF:-1,Оружие
 
 http://win.cdn.bonus-tv.ru/TVB7/orujie/playlist.m3u8
+
+#EXTINF: 0, Sport 7
+
+http://212.79.96.134:8009/
