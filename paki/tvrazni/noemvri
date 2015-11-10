@@ -80,8 +80,6 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:0,Filmon TV
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
-#EXTINF:0,Fun 1 TV
-mms://portal.satplus.cz/TV_FUN1
 #EXTINF:0,Family TV 2
 rtmp://83.169.58.36/live/DasneueTV
 #EXTINF:0,Family TV HD
