@@ -104,8 +104,6 @@ http://217.16.82.6:554/zulu/kanal5_1/playlist.m3u8
 http://217.16.82.6:554/zulu/kanal5plus_1/playlist.m3u8
 #EXTINF:0,KANAL 8 (Kocani)
 mms://62.162.58.55/TVkanal8
-#EXTINF:0,Leskovac TV
-http://5.153.25.7:8081/stream/?channel=tvleskovac&stream=1mb
 #EXTINF:0,MPT1
 http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
 #EXTINF:0,Mega TV(Македония)
