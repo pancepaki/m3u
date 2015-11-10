@@ -34,8 +34,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:0,Fox sport 2
 http://motorsport.hopto.org:8080/
-#EXTINF:0,Sport1 
-http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1 
 #EXTINF:0,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
 #EXTINF:0,USA-PAC 12 Bay Area (HD)
