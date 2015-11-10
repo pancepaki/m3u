@@ -1,0 +1,184 @@
+#EXTM3U url-tvg=”http://www.teleguide.info/download/new3/jtv.zip” aspect-ratio=16:9 deinterlace=2 cache=500
+#EXTINF:-1 tvg-name=Кинохит tvg-shift=-1 aspect-ratio=None group-title=”Кино” ,Кинохит
+http://91.234.211.131:8002/kinohit
+#EXTINF:-1 tvg-name=Премьера tvg-shift=-1 tvg-logo=Премьера aspect-ratio=None ,Премьера
+http://91.234.211.131:8003/ntvpremiera
+#EXTINF:-1 tvg-name=Кино_ПЛЮС tvg-shift=-1 aspect-ratio=None aspect-ratio=16:9 tvg-logo=”Кино плюс” ,Киноплюс
+http://91.234.211.131:8003/kinoplus
+#EXTINF:-1 tvg-name=Киноклуб tvg-shift=-1 aspect-ratio=None tvg-logo=Киноклуб ,Киноклуб
+http://91.234.211.131:8003/ntvkinoclub
+#EXTINF:-1 tvg-name=Наше_кино tvg-shift=-1 aspect-ratio=None tvg-logo=”Наше Кино” ,Наше Кино
+http://91.234.211.131:8003/nashekino
+#EXTINF:-1 tvg-name=Наше_Новое_Кино tvg-shift=-1 aspect-ratio=None tvg-logo=”Наше новое кино” ,Наше новое кино
+http://91.234.211.131:8002/nashekino
+#EXTINF:-1 tvg-name=Русский_Иллюзион tvg-shift=-1 aspect-ratio=None tvg-logo=”Русский Иллюзион” ,Русский Иллюзион
+http://91.234.211.131:8001/RusskyjI
+#EXTINF:-1 tvg-name=Иллюзион__ tvg-shift=-1 aspect-ratio=None tvg-logo=”Иллюзион+” ,Иллюзион+
+http://91.234.211.131:8001/IllusionPlus
+#EXTINF:-1 tvg-name=Еврокино tvg-shift=0 aspect-ratio=None tvg-logo=”Еврокино” ,Еврокино
+http://91.234.211.131:8001/evrokino
+#EXTINF:-1 tvg-name=MGM tvg-shift=-1 aspect-ratio=None tvg-logo=”MGM” ,MGM
+http://91.234.211.131:8000/mgm
+#EXTINF:-1 tvg-name=Fox tvg-shift=-1 aspect-ratio=None tvg-logo=Fox ,Fox
+http://91.234.211.131:8001/fox
+#EXTINF:-1 tvg-name=Fox_Life tvg-shift=-1 aspect-ratio=None tvg-logo=Fox Life ,Fox Life
+http://91.234.211.131:8001/foxlife
+#EXTINF:-1 tvg-name=Кинорейс_1_(НТВ) tvg-shift=-1 aspect-ratio=None tvg-logo=Кинохит ,Кинорейс_1
+http://91.234.211.132:8005/Kinoreys1
+
+#EXTINF:-1 tvg-name=Cartoon_Network tvg-shift=-1 aspect-ratio=None group-title=”Детские”,Cartoon Network
+http://91.234.211.131:8000/cartoon
+#EXTINF:-1 tvg-name=JimJam tvg-shift=-1 aspect-ratio=None tvg-logo=JimJam ,Jim Jam
+http://91.234.211.131:8000/jimjam
+#EXTINF:0 tvg-name=Пиксель tvg-shift=-1 tvg-logo=”Пиксель” ,Пиксель
+http://91.234.211.134:1235/tv/em
+#EXTINF:0 tvg-name=Tiji_ tvg-shift=-1 tvg-logo=”TiJi” ,TiJi
+http://91.234.211.132:8005/TiJi
+#EXTINF:0 tvg-name=Gulli tvg-shift=-1 tvg-logo=”Gulli” ,Gulli
+http://91.234.211.132:8005/Guli
+#EXTINF:-1 tvg-name=Nick_Jr tvg-shift=-1 aspect-ratio=None tvg-logo=Nick Jr,Nick Jr
+http://91.234.211.132:8004/NickJr
+#EXTINF:-1 tvg-name=ПЛЮСПЛЮС tvg-shift=-1 aspect-ratio=None tvg-logo=”ПЛЮСПЛЮС” ,ПЛЮСПЛЮС
+http://91.234.211.134:1234/tv/5
+
+#EXTINF:-1 tvg-name=НТН_(Украина) tvg-shift=-1 group-title=”Украинские” ,НТН
+http://91.234.211.134:1235/tv/ntn
+#EXTINF:0 tvg-name=Уніан(Украина) tvg-shift=-1,Уніан
+http://91.234.211.134:1234/tv/1
+#EXTINF:0 tvg-name=TRK Kiev tvg-shift=-1,TRK Kiev
+http://91.234.211.134:1234/tv/9
+#EXTINF:0 tvg-name=1+1(Украина) tvg-shift=-1 tvg-logo=”1+1″ ,1+1
+http://91.234.211.134:1234/tv/3
+#EXTINF:0 tvg-name=Inter tvg-shift=-2 tvg-logo=”Inter” ,Inter
+http://91.234.211.134:1235/tv/inter
+#EXTINF:0tvg-name=Gamma tvg-shift=-1 aspect-ratio=None tvg-logo=”Gamma”,Gamma
+http://91.234.211.134:1235/tv/gamma
+#EXTINF:0tvg-name=ImpaсtTV tvg-shift=-1 aspect-ratio=None tvg-logo=”ImpaсtTV”,ImpaсtTV
+http://91.234.211.134:1235/tv/impat
+#EXTINF:0 tvg-name=СТБ tvg-shift=-1 aspect-ratio=None tvg-logo=”СТБ”,СТБ
+http://91.234.211.134:1236/tv/STB
+#EXTINF:0 tvg-name=1 Nationalny tvg-shift=-2 aspect-ratio=None tvg-logo=”1 Nationalny”,1 Nationalny
+http://91.234.211.134:1236/tv/prn
+#EXTINF:0 tvg-name=ТВi tvg-shift=-1 aspect-ratio=None tvg-logo=”TBi”,TBi
+http://91.234.211.134:1236/tv/tonis
+#EXTINF:0 tvg-name=Новый_Канал tvg-shift=0 tvg-logo=”Новый канал” ,Новый
+http://91.234.211.134:1236/tv/noviy
+#EXTINF:0 tvg-name=ICTV_(Украина) tvg-shift=-1,ICTV
+http://91.234.211.134:1236/tv/ictv
+#EXTINF:0 tvg-name=24 tvg-shift=-1 tvg-logo=”24″,24
+http://91.234.211.134:1236/tv/24
+#EXTINF:0 tvg-name=QTV_(Куй_ТВ) tvg-shift=-1 tvg-logo=”QTV” ,QTV
+http://91.234.211.134:1236/tv/qtv
+#EXTINF:0 tvg-name=К2 tvg-shift=-1 tvg-logo=”К2″ ,K2
+http://91.234.211.134:1235/tv/k2
+
+#EXTINF:-1 tvg-name=Discovery_World tvg-shift=-1 aspect-ratio=None group-title=”Познавательные и Развлекательные”,Discovery World
+http://91.234.211.131:8000/discoweryworld
+#EXTINF:-1 tvg-name=Discovery_Science tvg-shift=-1 aspect-ratio=None tvg-logo=”Discovery Science”,Discovery Science
+http://91.234.211.131:8000/discoweryscience
+#EXTINF:-1 tvg-name=Discovery tvg-shift=-1 aspect-ratio=None tvg-logo=”Discovery”,Discovery
+http://91.234.211.132:8004/DiscoveryChannel
+#EXTINF:-1 tvg-name=Investigation_Discovery tvg-shift=-1 aspect-ratio=None tvg-logo=Discovery ,Investigation Discovery
+http://91.234.211.131:8000/discinv
+#EXTINF:-1 tvg-name=Animal_Planet tvg-shift=-1 aspect-ratio=None tvg-logo=”Animal Planet”,Animal Planet
+http://91.234.211.132:8004/AnimalPlanet
+#EXTINF:-1 tvg-name=Nat_Geo_WILD tvg-shift=-1 aspect-ratio=None tvg-logo=”Nat Geo WILD”,Nat Geo WILD
+http://91.234.211.132:8004/NatGeoWild
+#EXTINF:-1 tvg-name=National_Geographic tvg-shift=-1 aspect-ratio=None tvg-logo=”National Geographic”,National Geographic
+http://91.234.211.132:8004/natgeographic
+#EXTINF:-1 tvg-name=Кто_есть_кто tvg-shift=-1 Психология 21 tvg-logo=”Кто есть кто” ,Кто есть кто
+http://91.234.211.131:8003/ktoestkto
+#EXTINF:-1 tvg-name=Перец tvg-shift=-1 Психология 21 tvg-logo= ,Перец
+http://91.234.211.131:8002/peretz
+#EXTINF:-1 tvg-name=Комеди_ТВ tvg-shift=-1 aspect-ratio=None tvg-logo=”Комеди_ТВ” ,Комеди_ТВ
+http://91.234.211.132:8005/ComedyTV
+
+#EXTINF:-1 tvg-name=НТВ-ПЛЮС_Спорт tvg-shift=-1 tvg-logo=”НТВ+ Спорт” aspect-ratio=None group-title=”Спорт” ,Спорт
+http://91.234.211.131:8003/ntvsport
+#EXTINF:0 tvg-name=XSport tvg-shift=-1 tvg-logo=”XSport” ,XSport
+http://91.234.211.134:1235/tv/xsport
+#EXTINF:-1 tvg-name=НТВ-ПЛЮС_Футбол tvg-shift=-1 tvg-logo=”НТВ+ Футбол” aspect-ratio=None ,Футбол
+http://91.234.211.131:8003/ntvfutbol
+#EXTINF:-1 tvg-name=Extreme_Sports tvg-shift=-1 aspect-ratio=None ,Extreme Sports
+http://91.234.211.131:8000/ExtreamSports
+#EXTINF:-1 tvg-name=eurosport tvg-shift=-1 aspect-ratio=None tvg-logo=”Eurosport” ,Eurosport
+http://91.234.211.132:8004/eurosport
+
+#EXTINF:-1 tvg-name=MCM_Top tvg-shift=-1 tvg-logo=”MCM Top” aspect-ratio=None group-title=”Музыкальные” ,MCM Top
+http://91.234.211.131:8000/mcm
+#EXTINF:-1 tvg-name=MTV_Dance tvg-shift=-1 tvg-logo=”MTV Dance” aspect-ratio=None ,MTV Dance
+http://91.234.211.131:8000/mtvdance
+#EXTINF:-1 tvg-name=MTV_Rocks tvg-shift=-1 aspect-ratio=None tvg-logo=MTV Rocks,MTV Rocks
+http://91.234.211.131:8001/Rocks
+#EXTINF:-1 tvg-name=MTV Russia tvg-shift=-1 aspect-ratio=None tvg-logo=MTV Russia,MTV Russia
+http://91.234.211.132:8004/MTV_Russia
+#EXTINF:-1 tvg-name=VH1_Classic tvg-shift=-1 aspect-ratio=None tvg-logo=”VH 1 Classic” ,VH1 Classic
+http://91.234.211.131:8000/vh1
+#EXTINF:-1 tvg-name=Mezzo tvg-shift=-2 aspect-ratio=None tvg-logo=”Mezzo” ,Mezzo
+http://91.234.211.132:8004/mezzo
+#EXTINF:0 tvg-name=OTV tvg-shift=-1 tvg-logo=”O-TV Music” ,OTV
+http://91.234.211.134:1234/tv/2
+#EXTINF:-1 tvg-name=М-1 tvg-shift=-1 aspect-ratio=None tvg-logo=”М-1″ ,М-1
+http://91.234.211.134:1236/tv/m1
+#EXTINF:0,M2
+http://91.234.211.134:1236/tv/m2
+
+#EXTINF:-1 tvg-name=24_ДОК tvg-shift=-1 aspect-ratio=None group-title=”Деловые” ,24doc
+http://91.234.211.131:8002/24doc
+#EXTINF:-1 tvg-name=CCTV-Русский tvg-shift=-1 aspect-ratio=None tvg-logo=CCTV-Русский ,CCTV Русский
+http://91.234.211.131:8001/cctv
+#EXTINF:0 tvg-logo=”Первый_деловой” tvg-shift=-1 aspect-ratio=None tvg-logo=Первый_деловой ,Первый деловой
+http://91.234.211.134:1236/tv/dilovoy
+#EXTINF:0 tvg-name=UBR tvg-shift=-1 aspect-ratio=None ,UBR
+http://91.234.211.134:1234/tv/7
+
+#EXTINF:-1 tvg-name=Nat_Geo_Wild_HD tvg-shift=-1 aspect-ratio=None crop=None tvg-logo=NatGeo ,NatGeo
+http://91.234.211.133:8012/NatGeo
+#EXTINF:-1 tvg-name=Animal_Planet_HD tvg-shift=-1 crop=0 tvg-logo=AnimalHD ,AnimalHD
+http://91.234.211.133:8012/AnimalHD
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo=PlusFutbol ,PlusFutbol
+http://91.234.211.133:8012/PlusFutbol
+#EXTINF:-1 tvg-name=Nickelodeon_HD tvg-shift=-1 tvg-logo=Nickelodeon ,Nickelodeon
+http://91.234.211.133:8012/Nickelodeon
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo=Кино плюс ,Kino5
+http://91.234.211.133:8009/Kino5
+#EXTINF:-1 tvg-name=National_Geographic_HD tvg-shift=-1 tvg-logo=National Geographic Channel ,National
+http://91.234.211.133:8009/National
+#EXTINF:-1 tvg-name=Amedia_Premium_HD tvg-shift=-1 tvg-logo= ,Amedia
+http://91.234.211.133:8009/Amedia
+#EXTINF:-1 tvg-name=History_HD tvg-shift=-1 tvg-logo= ,History
+http://91.234.211.133:8009/History
+#EXTINF:-1 tvg-name=Travel_Channel_HD tvg-shift=-1 tvg-logo=Travel Channel ,Travel
+http://91.234.211.133:8009/Travel
+#EXTINF:-1 tvg-name=ТЕТ tvg-shift=-1 aspect-ratio=16:9 tvg-logo=ТЕТ ,TET
+http://91.234.211.133:8015/TET
+#EXTINF:-1 tvg-name=”2+2″” tvg-shift=-1 tvg-logo=2+2 ,2+2
+http://91.234.211.133:8015/OTV
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo=1+1 ,1+1
+http://91.234.211.133:8015/1_1
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo=ГЛАС , Глас
+http://91.234.211.133:8015/Glas
+#EXTINF:-1 tvg-name=ПЛЮСПЛЮС tvg-shift=-1 tvg-logo= ,ПлюсПлюс
+http://91.234.211.133:8015/PlusPlus
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo= ,NTA
+http://91.234.211.133:8015/NTA
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo= ,Rabinovich
+http://91.234.211.133:8016/Rabinovich
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo= ,Nadiya
+http://91.234.211.133:8016/Nadiya
+#EXTINF:-1 tvg-name= tvg-shift=-1 tvg-logo= ,Sonce
+http://91.234.211.133:8016/Sonce
+#EXTINF:-1 tvg-name=ПравоТВ tvg-shift=-1 tvg-logo= ,PravoTV
+http://91.234.211.133:8016/PravoTV
+#EXTINF:-1 tvg-name=5_канал_(Украина) tvg-shift=-1 tvg-logo=5 канал украина ,5Kanal
+http://91.234.211.133:8016/5Kanal
+#EXTINF:-1 tvg-name=КРТ tvg-shift=-1 tvg-logo=,KRT
+http://91.234.211.133:8016/KRT
+#EXTINF:-1 tvg-name=”Про Все” tvg-shift=-1 tvg-logo= ,ProVse
+http://91.234.211.133:8016/ProVse
+#EXTINF:-1 tvg-name=АТР tvg-shift=-1 tvg-logo= ,ATR
+http://91.234.211.133:8016/ATR
+#EXTINF:-1 tvg-name=MAXXI-TV tvg-shift=-1 tvg-logo= ,Maxxi
+http://91.234.211.133:8016/Maxxi
+#EXTINF:-1 tvg-name=Интер tvg-shift=-1 tvg-logo=Nickelodeon ,Inter
+http://91.234.211.133:8016/Inter
