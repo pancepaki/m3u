@@ -541,7 +541,94 @@ http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1,RT Documentary  [COLOR lime]FTA[/COLOR]
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
-
+#EXTINF:-1,Africa News Network  [COLOR lime]FTA[/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+#EXTINF:-1,Music Videos 1  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Music Videos 2  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Music Videos 3  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Music Videos 4  [COLOR lime]FTA[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Music Videos 5  [COLOR lime]FTA[/COLOR]
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Music Videos 6  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Music Videos 7  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1,Music Videos 8  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Music Videos 9  [COLOR lime]FTA[/COLOR]
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,Music Videos 10  [COLOR lime]FTA[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,Music Videos 11  [COLOR lime]FTA[/COLOR]
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,Music Videos 13  [COLOR lime]FTA[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Music Videos 14  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Music Videos 15  [COLOR lime]FTA[/COLOR]
+http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
+#EXTINF:-1,Music Videos 16  [COLOR lime]FTA[/COLOR]
+http://rtmp.one.by:1300/
+#EXTINF:-1,Music Videos 17  [COLOR lime]FTA[/COLOR]
+http://194.79.52.77/goldi/goldHQ2/index.m3u8
+#EXTINF:-1,Music Videos 18  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Music Videos 19  [COLOR lime]FTA[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Music Videos 20  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1,Music Videos 21  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:-1,Music Videos 22  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+#EXTINF:-1,Music Videos 23  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,Music Videos 24  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,Music Videos 25  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,Music Videos 26  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Music Videos 27  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+#EXTINF:-1,Music Videos 28  [COLOR lime]FTA[/COLOR]
+http://rtmp.one.by:2300/
+#EXTINF:-1,Music Videos 29  [COLOR lime]FTA[/COLOR]
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1,Music Videos 30  [COLOR lime]FTA[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, Sport 3  [COLOR lime]FTA[/COLOR]
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1, Sport 4  [COLOR lime]FTA[/COLOR]
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, Sport 5  [COLOR lime]FTA[/COLOR]
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, Sport 8  [COLOR lime]FTA[/COLOR]
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+#EXTINF:-1, Sport 10  [COLOR lime]FTA[/COLOR]
+http://87.248.160.8/edge/smil:boet/HasBahCa.m3u8
+#EXTINF:-1, Sport 11  [COLOR lime]FTA[/COLOR]
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#EXTINF:-1, Sport 13  [COLOR lime]FTA[/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1, Sport 14  [COLOR lime]FTA[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1, Sport 16  [COLOR lime]FTA[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1, Sport 17  [COLOR lime]FTA[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1, Sport 18  [COLOR lime]FTA[/COLOR]
+http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1, Sport 19  [COLOR lime]FTA[/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1, Sport 20  [COLOR lime]FTA[/COLOR]
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,PPV Movies - A Brilliant Young Mind  [COLOR lime]FTA[/COLOR]
+http://iptvnation.com/30.mp4
 #EXTINF:-1,bein8
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/51.ts
 #EXTINF:-1,bein7
