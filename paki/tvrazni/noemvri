@@ -669,6 +669,64 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
 #EXTINF:-1,TVE 24h  [COLOR lime]FTA[/COLOR]
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Korea 1  [COLOR lime]FTA[/COLOR]
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1,Korea 2  [COLOR lime]FTA[/COLOR]
+rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
+#EXTINF:-1,Russia 1  [COLOR lime]FTA[/COLOR]
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:-1,Russia 2  [COLOR lime]FTA[/COLOR]
+http://4.hls.bolshoe.tv/2/streaming/telekafe/tvrec/playlist.m3u8
+#EXTINF:-1,Russia 3  [COLOR lime]FTA[/COLOR]
+rtmp://spastv.cdnvideo.ru/spastv-live/spastv.sdp
+#EXTINF:-1,Russia 4  [COLOR lime]FTA[/COLOR]
+http://193.107.103.42:81/mystream.m3u8
+#EXTINF:-1,Russia 5  [COLOR lime]FTA[/COLOR]
+http://sftr89en.edem.tv/iptv/AG4F5YHLGU6RDV/202/index.m3u8
+#EXTINF:-1,Russia 9  [COLOR lime]FTA[/COLOR]
+http://195.189.246.131/russiak_250k.m3u8
+#EXTINF:-1,France 2  [COLOR lime]FTA[/COLOR]
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1,France 3  [COLOR lime]FTA[/COLOR]
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,France 4  [COLOR lime]FTA[/COLOR]
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1,France 5  [COLOR lime]FTA[/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+#EXTINF:-1,France 6  [COLOR lime]FTA[/COLOR]
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1,France 7  [COLOR lime]FTA[/COLOR]
+rtmp://62.210.204.108/livtv7vo/mystream700.sdp
+#EXTINF:-1,France 8  [COLOR lime]FTA[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,France 10  [COLOR lime]FTA[/COLOR]
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,Canada 1  [COLOR lime]FTA[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/lcn1@9753
+#EXTINF:-1,Canada 6  [COLOR lime]FTA[/COLOR]
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1,Canada 8  [COLOR lime]FTA[/COLOR]
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+#EXTINF:-1,Canada 9  [COLOR lime]FTA[/COLOR]
+rtmp://37.59.17.222:1935/live_ca/eettv
+#EXTINF:-1,Germany 2  [COLOR lime]FTA[/COLOR]
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+#EXTINF:-1,Germany 3  [COLOR lime]FTA[/COLOR]
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Germany 4  [COLOR lime]FTA[/COLOR]
+rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
+#EXTINF:-1,Germany 5  [COLOR lime]FTA[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:-1,Germany 6  [COLOR lime]FTA[/COLOR]
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany 7  [COLOR lime]FTA[/COLOR]
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
+#EXTINF:-1,Germany 8  [COLOR lime]FTA[/COLOR]
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+#EXTINF:-1,Germany 9  [COLOR lime]FTA[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany 10  [COLOR lime]FTA[/COLOR]
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
 
 #EXTINF:-1,bein8
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/51.ts
