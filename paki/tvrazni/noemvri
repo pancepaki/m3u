@@ -727,6 +727,28 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Germany 10  [COLOR lime]FTA[/COLOR]
 http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+#EXTINF:-1,Romania 1  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24hdhqhls/hasbahca.m3u8
+#EXTINF:-1,Romania 2  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24brasovlive/hasbahca.m3u8
+#EXTINF:-1,Romania 3  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24constantalivehls/hasbahca.m3u8
+#EXTINF:-1,Romania 4  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24craiovalive/hasbahca.m3u8
+#EXTINF:-1,Romania 5  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24timislivehls/hasbahca.m3u8
+#EXTINF:-1,Romania 6  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24oradealivehls/hasbahca.m3u8
+#EXTINF:-1,Romania 7  [COLOR lime]FTA[/COLOR]
+http://82.208.151.248:8989/1.flv
+#EXTINF:-1,Romania 8  [COLOR lime]FTA[/COLOR]
+http://1tv.ambra.ro
+#EXTINF:-1,Austria 1  [COLOR lime]FTA[/COLOR]
+rtmp://streaming.austria24.tv/live/stream_720p
+#EXTINF:-1,China 4  [COLOR lime]FTA[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:-1,China 5  [COLOR lime]FTA[/COLOR]
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
 
 #EXTINF:-1,bein8
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/51.ts
