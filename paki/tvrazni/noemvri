@@ -629,6 +629,47 @@ http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
 http://motorsport.hopto.org:8080/
 #EXTINF:-1,PPV Movies - A Brilliant Young Mind  [COLOR lime]FTA[/COLOR]
 http://iptvnation.com/30.mp4
+#EXTINF:-1,España 8  [COLOR lime]FTA[/COLOR]
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,España 10  [COLOR lime]FTA[/COLOR]
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1,España 12  [COLOR lime]FTA[/COLOR]
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1,España 15  [COLOR lime]FTA[/COLOR]
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:-1,Uruguay 1  [COLOR lime]FTA[/COLOR]
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Guatemala 1  [COLOR lime]FTA[/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
+#EXTINF:-1,Guatemala 2  [COLOR lime]FTA[/COLOR]
+http://72.46.226.61/live01/canal31/playlist.m3u8
+#EXTINF:-1,Costa Rica 3  [COLOR lime]FTA[/COLOR]
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1,Costa Rica 4  [COLOR lime]FTA[/COLOR]
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1,Costa Rica 5  [COLOR lime]FTA[/COLOR]
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1,Costa Rica 8  [COLOR lime]FTA[/COLOR]
+rtmp://k3.usastreams.com:1935/canal29/canal29
+#EXTINF:-1,Mexico 1  [COLOR lime]FTA[/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,Argentina 2  [COLOR lime]FTA[/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,Argentina 6  [COLOR lime]FTA[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,Argentina 8  [COLOR lime]FTA[/COLOR]
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:-1,Peru 1  [COLOR lime]FTA[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:-1,Peru 6  [COLOR lime]FTA[/COLOR]
+http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+#EXTINF:-1,Azteca Noticias  [COLOR lime]FTA[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,CB24  [COLOR lime]FTA[/COLOR]
+rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
+#EXTINF:-1,TVE 24h  [COLOR lime]FTA[/COLOR]
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
 #EXTINF:-1,bein8
 http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/51.ts
 #EXTINF:-1,bein7
