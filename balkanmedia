@@ -1,0 +1,79 @@
+# EXTM3U 
+#EXTINF: -1, RTS INFO http://server9.balkantvmedia.com:8080/B92_Info?u=user487:p=RMgWqA5l 
+#EXTINF: -1, HAPPY TV http://server9.balkantvmedia.com:8080/HAPPY?u=user487:p= RMgWqA5l\
+ #EXTINF: -1, PRVA TV http://server9.balkantvmedia.com:8080/PRVA?u=user487:p=RMgWqA5l
+ #EXTINF: -1, PRVA PLUS http://server9.balkantvmedia.com:8080/ Prva_Plus? u = user487: p = RMgWqA5l
+ #EXTINF: -1, NOVA RS http://server4.balkantvmedia.com:8080/Nova_Srpska?u=user487:p=RMgWqA5l
+ #EXTINF: -1, HRT 1 http: // server9.balkantvmedia.com:8080/HRT1?u=user487:p=RMgWqA5l
+ #EXTINF: -1, 2 HRT http://server9.balkantvmedia.com:8080/HRT2?u=user487:p=RMgWqA5l
+ #EXTINF: - 1, HRT 3 http://server4.balkantvmedia.com:8080/HRT3?u=user487:p=RMgWqA5l 
+#EXTINF: -1, HRT 4 http://server9.balkantvmedia.com:8080/HRT4?u=user487 : p = RMgWqA5l
+ #EXTINF: -1, VINKOVACKA TV http://server9.balkantvmedia.com:8080/Vinkovacka_TV?u=user487:p=RMgWqA5l
+ #EXTINF: -1, OSJECKA TV http://server4.balkantvmedia.com : 8080 / OsjeckaTV? u = user487: p = RMgWqA5l 
+#EXTINF: -1, NOVA TV http://server4.balkantvmedia.com:8080/Nova_TV?u=user487:p=RMgWqA5l 
+#EXTINF: -1, HR RTL http : //server9.balkantvmedia.com: 8080 / RTL_HR? u = user487: p = RMgWqA5l
+ #EXTINF: -1, RTL 2 HR http://server4.balkantvmedia.com:8080/RTL2_HR?u=user487:p=RMgWqA5l
+ #EXTINF: -1, DOMA SAT http://server9.balkantvmedia.com:8080/HAYAT_SAT?u=user487:p=RMgWqA5l
+ #EXTINF: -1, FACE BIH http://server4.balkantvmedia.com:8080/PINK_BH?u=user487:p=RMgWqA5l
+ #EXTINF: -1, AL JAZEERA BALKAN http://server4.balkantvmedia.com:8080/AlJazeeraBalkans?u=user487:p RMgWqA5l =
+ #EXTINF: -1, BN TV http://server4.balkantvmedia.com:8080/BN_TELEVIZIJA?u=user487:p=RMgWqA5l
+ #EXTINF: -1, SLON 2 http://server4.balkantvmedia.com:8080/PINK2?u=user487:p=RMgWqA5l 
+#EXTINF: -1, PINK PLUS http://server9.balkantvmedia.com:8080/PINK_PLUS?u=user487:p= RMgWqA5l 
+#EXTINF: -1, PINK EXTRA http://server4.balkantvmedia.com:8080/PINK_EXTRA?u=user487:p=RMgWqA5l 
+#EXTINF: -1, 1 SPORT KLUB http://server9.balkantvmedia.com:8080 / SPORTKLUB_1HR? u = user487: p = RMgWqA5l 
+#EXTINF: -1, 2 SPORT KLUB http://server9.balkantvmedia.com:8080/SPORTKLUB_2HR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, 3 SPORT KLUB http : //server4.balkantvmedia.com: 8080 / SPORTKLUB_3HR? u = user487: p = RMgWqA5l 
+#EXTINF: -1, SPORT KLUB HD http://server4.balkantvmedia.com:8080/Sport_Klub_HD?u=user487:p=RMgWqA5l
+ #EXTINF: -1, SPORT KLUB 1 HD http://server9.balkantvmedia.com:8080/Sport_Klub_1HD?u=user487:p=RMgWqA5l 
+#EXTINF: -1, SPORT KLUB 2 HD http://server9.balkantvmedia.com : 8080 / Sport_Klub_2HD? u = user487: p = RMgWqA5l 
+#EXTINF: -1, SPORT KLUB 3 HD http://server4.balkantvmedia.com:8080/Sport_Klub_3HD?u=user487:p=RMgWqA5l 
+#EXTINF: -1, ARENA SPORT 1 HR http://server9.balkantvmedia.com:8080/ARENA_SPORT_1HR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, ARENA SPORT 2 HR http://server4.balkantvmedia.com:8080/ARENA_SPORT_2HR?u= user487: p = RMgWqA5l
+ #EXTINF: -1, ARENA SPORT 3 HR http://server4.balkantvmedia.com:8080/ARENA_SPORT_3HR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, ARENA SPORT 4 HR http: // server9.balkantvmedia.com:8080/ARENA_SPORT_4HR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, ARENA SPORT 1 SR http://server4.balkantvmedia.com:8080/ARENA_SPORT_1SR?u=user487:p=RMgWqA5l
+ #EXTINF : -1, ARENA SPORT 2 SR http://server4.balkantvmedia.com:8080/ARENA_SPORT_2SR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, ARENA SPORT 3 SR http://server4.balkantvmedia.com:8080 / ARENA_SPORT_3SR? u = user487: p = RMgWqA5l 
+#EXTINF: -1, ARENA SPORT 4 SR http://server9.balkantvmedia.com:8080/ARENA_SPORT_4SR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, ARENA SPORT 5 SR http://server9.balkantvmedia.com:8080/ARENA_SPORT_5SR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, 1 EUROSPORT SR http://server9.balkantvmedia.com:8080/EUROSPORT_1SR?u=user487:p RMgWqA5l =
+ #EXTINF: -1, EUROSPORT 2 SR http://server9.balkantvmedia.com:8080/EUROSPORT_2SR?u=user487:p=RMgWqA5l 
+#EXTINF: -1, PINK FILM http://server9.balkantvmedia.com: 8080 / PINK_FILM? u = user487: p = RMgWqA5l 
+#EXTINF: -1, PINK ROMANCE http://server4.balkantvmedia.com:8080/Pink_Movies_2?u=user487:p=RMgWqA5l 
+#EXTINF: -1, PINK THRILLER http://server9.balkantvmedia.com:8080/Pink_Action_2?u=user487:p=RMgWqA5l 
+#EXTINF: -1, PINK TV http://server4.balkantvmedia.com:8080/KLASIK_TV?u=user487:p=RMgWqA5l
+ #EXTINF: -1, HBO ADRIA http://server9.balkantvmedia.com:8080/HBO_ADRIA?u=user487:p= RMgWqA5l
+ #EXTINF: -1, HBO COMEDY http://server9.balkantvmedia.com:8080/HBO_COMEDY?u=user487:p=RMgWqA5l 
+#EXTINF: -1, 1 CINEMAX http://server4.balkantvmedia.com:8080/ CINEMAX? u = user487: p = RMgWqA5l
+ #EXTINF: -1, 2 CINEMAX http://server4.balkantvmedia.com:8080/Cinemax2?u=user487:p=RMgWqA5l 
+#EXTINF: -1, CINESTAR PREMIERE 1 http: / /server4.balkantvmedia.com:8080/CINESTAR_Premiere_1?u=user487:p=RMgWqA5l 
+#EXTINF: -1, 2 CINESTAR PREMIERE http://server9.balkantvmedia.com:8080/CINESTAR_Premiere_2?u=user487:p=RMgWqA5l
+ #EXTINF : -1, FOX CRIME http://server9.balkantvmedia.com:8080/FOX_crime?u=user487:p=RMgWqA5l 
+#EXTINF: -1, FOX Crime http://server9.balkantvmedia.com:8080/FOX_crime?u user487 =: p = RMgWqA5l 
+#EXTINF: -1, FOX Life http://server4.balkantvmedia.com:8080/FOX_life?u=user487:p=RMgWqA5l 
+#EXTINF: -1, PINK Western http: //server4.balkantvmedia .com: 8080 / PINK_Western? u = user487: p = RMgWqA5l 
+#EXTINF: -1, Pink Premium http://server9.balkantvmedia.com:8080/Pink_Premium?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Pink Comedy http://server9.balkantvmedia.com:8080/Pink_Comedy?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Pink Horor http://server9.balkantvmedia.com:8080/Pink_Horor?u=user487:p= RMgWqA5l 
+#EXTINF: -1, Pink and Pedia http://server9.balkantvmedia.com:8080/Pink_Pedia?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Animal Planet http://server4.balkantvmedia.com:8080/Animal_Planet?u=user487:p= RMgWqA5l 
+#EXTINF: -1,24 Reality http://server9.balkantvmedia.com:8080/Pink_reality?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Pink Fashion http://server4.balkantvmedia.com:8080/Pink_Fashion?u=user487:p= RMgWqA5l 
+#EXTINF: -1, OK RTL http://server9.balkantvmedia.com:8080/SUPER_RTL?u=user487:p=RMgWqA5l 
+#EXTINF: -1, RTL Kockica http://server4.balkantvmedia.com:8080/RTL_Kockica?u=user487:p= RMgWqA5l 
+#EXTINF: -1, Baby Music http://server9.balkantvmedia.com:8080/Pink_Music?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Pink Music 3 http://server9.balkantvmedia.com:8080/Pink_Music_3?u=user487:p RMgWqA5l = 
+#EXTINF: -1, Pink Rock & Roll http://server4.balkantvmedia.com:8080/Pink_Rool?u=user487:p=RMgWqA5l 
+#EXTINF: -1, POSAVINA TV http://server4.balkantvmedia.com:8080 / POSAVINA_TV? u = user487: p = RMgWqA5l 
+#EXTINF: -1, DM MUSIC http://server4.balkantvmedia.com:8080/BN_MUSIC?u=user487:p=RMgWqA5l 
+#EXTINF: -1, GRAND TV http://server4.balkantvmedia.com:8080/GRAND?u=user487:p= RMgWqA5l 
+#EXTINF: -1, PINK FOLK http://server4.balkantvmedia.com:8080/PINK_FOLK?u=user487:p=RMgWqA5l 
+#EXTINF: -1, HAYAT FOLK http://server9.balkantvmedia.com:8080/ HAYAT_FOLK? u = user487: p = RMgWqA5l 
+#EXTINF: -1, OTV Valentino http://server9.balkantvmedia.com:8080/OTV_Valentino?u=user487:p=RMgWqA5l 
+#EXTINF: -1, HAYAT MUSIC http: // server4.balkantvmedia.com:8080/HAYAT_MUSIC?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Bravo Music http://server4.balkantvmedia.com:8080/Bravo_Music?u=user487:p=RMgWqA5l 
+#EXTINF: - 1, Pink Folk 2 http://server4.balkantvmedia.com:8080/Pink_Folk2?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Pink Zabava http://server9.balkantvmedia.com:8080/Pink_Zabava?u= user487: p = RMgWqA5l 
+#EXTINF: -1, Pink Live http://server9.balkantvmedia.com:8080/Pink_Live?u=user487:p=RMgWqA5l 
+#EXTINF: -1, Pink World http: //server4.balkantvmedia. com: 8080 / Pink_world? u = user487: p = RMgWqA5l 
+#EXTINF: -1, MTV balkanTVmedia http://server9.balkantvmedia.com:8080/INFO_balkanTVmedia?u=user487:p=RMgWqA5l
