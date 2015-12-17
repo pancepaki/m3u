@@ -2958,5 +2958,7 @@ rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 #EXTINF:0, Football (RU)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:0,  ARENA SPORT 2 HR
+#EXTINF:0,ARENA SPORT 2 HR
 http://server4.balkantvmedia.com:8080/ARENA_SPORT_2HR?u= user487: p = RMgWqA5l
+#EXTINF:0,ARENA SPORT 1 HR
+http://server9.balkantvmedia.com:8080/ARENA_SPORT_1HR?u=user487:p=RMgWqA5l 
