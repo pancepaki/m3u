@@ -1,0 +1,677 @@
+#EXTM3U tvg-logo=Auto url-tvg=http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 cache=1000
+#EXTINF:0 group-title="Россия",=== РОССИЯ ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Россия",Первый канал
+http://hls.peers.tv/streaming/1kanal/126/tvrecw/playlist.m3u8
+#EXTINF:0 group-title="Россия",Россия 1
+http://msk3.peers.tv/streaming/rossija/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",Россия 1 +4
+http://stream.liteiptv.ru/russia1_plus4?.m3u8
+#EXTINF:0 group-title="Россия",Россия 1 +4 (резерв)
+http://stream.liteiptv.ru/russia1_plus4_2?.m3u8
+#EXTINF:0 group-title="Россия",Россия К
+http://stream.liteiptv.ru/russia_k?.m3u8
+#EXTINF:0 group-title="Россия",Россия К +4
+http://stream.liteiptv.ru/russia_k_plus4?.m3u8
+#EXTINF:0 group-title="Россия",Россия 24
+http://hls.peers.tv/streaming/vesti/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",Россия HD (720p)
+http://stream.liteiptv.ru/russiahd_low?.m3u8
+#EXTINF:0 group-title="Россия",РТР-Планета СНГ
+http://stream.liteiptv.ru/russia_rtr?.m3u8
+#EXTINF:0 group-title="Россия",СТС
+http://stream.liteiptv.ru/sts
+#EXTINF:0 group-title="Россия",СТС Love
+http://stream.liteiptv.ru/sts_love?.m3u8
+#EXTINF:0 group-title="Россия",ТНТ
+http://msk3.peers.tv/streaming/tnt/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",ТНТ +4
+http://stream.liteiptv.ru/tnt_plus4_r?.m3u8
+#EXTINF:0 group-title="Россия",ТВ3
+http://msk3.peers.tv/streaming/tv3/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",5 Канал Россия
+http://hls.peers.tv/streaming/5kanal/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",5 канал Россия +2
+http://stream.liteiptv.ru/5piter_plus2?.m3u8
+#EXTINF:0 group-title="Россия",НТВ
+http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",НТВ +4
+http://stream.liteiptv.ru/ntv_plus4?.m3u8
+#EXTINF:0 group-title="Россия",ТВЦ
+http://stream.liteiptv.ru/tvcenter
+#EXTINF:0 group-title="Россия",Звезда
+http://stream.liteiptv.ru/zvezda?.m3u8
+#EXTINF:0 group-title="Россия",РЕН ТВ
+http://stream.liteiptv.ru/ren_of?.m3u8
+#EXTINF:0 group-title="Россия",2х2
+http://stream.liteiptv.ru/2x2
+#EXTINF:0 group-title="Россия",Пятница
+http://msk3.peers.tv/streaming/friday/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",Домашний 
+http://stream.liteiptv.ru/home_z
+#EXTINF:0 group-title="Россия",Че
+http://msk3.peers.tv/streaming/perec/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",Че +4
+http://stream.liteiptv.ru/peretz_plus4?.m3u8
+#EXTINF:0 group-title="Россия",LifeNews 
+http://stream.liteiptv.ru/lifenews?.m3u8
+#EXTINF:0 group-title="Россия",LifeNews HD
+http://stream.liteiptv.ru/lifenews720?.m3u8
+#EXTINF:0 group-title="Россия",Мир
+http://stream.liteiptv.ru/mir?.m3u8
+#EXTINF:0 group-title="Россия",Мир +3
+http://stream.liteiptv.ru/mir_plus3?.m3u8
+#EXTINF:0 group-title="Россия",RTVi
+http://stream.liteiptv.ru/rtviii
+#EXTINF:0 group-title="Россия",Дождь
+http://msk3.peers.tv/streaming/rain/16/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Россия",РЖД ТВ HD
+http://stream.liteiptv.ru/rzd720?.m3u8
+#EXTINF:0 group-title="Россия",1 Крым HD
+http://stream.liteiptv.ru/krymnash?.m3u8
+#EXTINF:0 group-title="Россия",Крым 24 HD
+http://stream.liteiptv.ru/krymnash_24?.m3u8
+#EXTINF:0 group-title="Россия",ОТР 
+http://stream.liteiptv.ru/otr?.m3u8
+#EXTINF:0 group-title="Россия",Риа Новости
+http://stream.liteiptv.ru/ria_news?.m3u8
+#EXTINF:0 group-title="Россия",Красная Линия
+http://stream.liteiptv.ru/krasnaya_liniya?.m3u8
+#EXTINF:0 group-title="Россия",Новороссия TV HD
+http://stream.liteiptv.ru/novorossiahd_gg?.m3u8
+#EXTINF:0 group-title="Россия",Антимайдан HD
+http://stream.liteiptv.ru/antymaidanhd_gg?.m3u8
+#EXTINF:0 group-title="Россия",Юнион
+http://stream.liteiptv.ru/union?.m3u8
+#EXTINF:0 group-title="Региональные Россия",=== РЕГИОНАЛЬНЫЕ РОССИЯ ===
+http://bit.ly/liteiptvstart?.m3u8
+#EXTINF:0 group-title="Региональные Россия",= Ещё не состоите в нашей группе ВКонтакте? =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Региональные Россия",= Добавляйтесь скорее! =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Региональные Россия",= VK.COM/LITEIPTV =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Региональные Россия",360 Подмосковье
+http://stream.liteiptv.ru/360?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Санкт-Петербург 
+http://stream.liteiptv.ru/piter?.m3u8
+#EXTINF:0 group-title="Региональные Россия",LifeNews 78 
+http://stream.liteiptv.ru/life78?.m3u8
+#EXTINF:0 group-title="Региональные Россия",LifeNews 78 HD
+http://stream.liteiptv.ru/life78_720?.m3u8
+#EXTINF:0 group-title="Региональные Россия",8 Канал Новосибирск
+http://stream.liteiptv.ru/8novosib?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Тюменское время
+http://stream.liteiptv.ru/tumenskoevremya?.m3u8
+#EXTINF:0 group-title="Региональные Россия",43 Канал HD
+http://stream.liteiptv.ru/43channel_hd?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Омск 12 Канал
+http://stream.liteiptv.ru/omsk12channel?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Астрахань 24 HD
+http://stream.liteiptv.ru/astrakhan24hd?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Тамыр
+http://stream.liteiptv.ru/tamyr?.m3u8
+#EXTINF:0 group-title="Региональные Россия",26 Регион
+http://stream.liteiptv.ru/26region?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Губерния
+http://stream.liteiptv.ru/gyberniya?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Белгород 24
+http://stream.liteiptv.ru/belgorod24?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Мир Белогорья
+http://stream.liteiptv.ru/mirbelogorya?.m3u8
+#EXTINF:0 group-title="Региональные Россия",Аист Иркутск
+http://stream.liteiptv.ru/aist?.m3u8
+#EXTINF:0 group-title="Украина",=== УКРАИНА ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Украина",1+1
+http://stream.liteiptv.ru/1plus1_as?.m3u8
+#EXTINF:0 group-title="Украина",2+2
+http://stream.liteiptv.ru/2plus2?.m3u8
+#EXTINF:0 group-title="Украина",Интер
+http://stream.liteiptv.ru/inter?.m3u8
+#EXTINF:0 group-title="Украина",ICTV
+http://stream.liteiptv.ru/ictv_as?.m3u8
+#EXTINF:0 group-title="Украина",Тонис
+http://stream.liteiptv.ru/tonishd_as?.m3u8
+#EXTINF:0 group-title="Украина",ТЕТ
+http://stream.liteiptv.ru/tet_as?.m3u8
+#EXTINF:0 group-title="Украина",Мега
+http://stream.liteiptv.ru/mega_as?.m3u8
+#EXTINF:0 group-title="Украина",К1
+http://stream.liteiptv.ru/k1?.m3u8
+#EXTINF:0 group-title="Украина",Правда тут HD
+http://stream.liteiptv.ru/pravda720?.m3u8
+#EXTINF:0 group-title="Украина",3S.TV
+http://stream.liteiptv.ru/3s?.m3u8
+#EXTINF:0 group-title="Украина",Перший Ukraine
+http://stream.liteiptv.ru/uaperviy2?.m3u8
+#EXTINF:0 group-title="Украина",Перший Ukraine Digital
+http://stream.liteiptv.ru/perviyua?.m3u8
+#EXTINF:0 group-title="Украина",НТН
+http://stream.liteiptv.ru/ntn?.m3u8
+#EXTINF:0 group-title="Украина",ЧП.INFO
+http://stream.liteiptv.ru/cp_info?.m3u8
+#EXTINF:0 group-title="Украина",Соціальна країна 
+http://stream.liteiptv.ru/soc_strana?.m3u8
+#EXTINF:0 group-title="Украина",RTI HD
+http://stream.liteiptv.ru/rtihd?.m3u8
+#EXTINF:0 group-title="Украина",Громадске ТБ 
+http://stream.liteiptv.ru/hromadske?.m3u8
+#EXTINF:0 group-title="Украина",Еспрессо TV HD
+http://stream.liteiptv.ru/espressohd?.m3u8
+#EXTINF:0 group-title="Украина",112 Украина
+http://stream.liteiptv.ru/ua112?.m3u8
+#EXTINF:0 group-title="Украина",24 Украина
+http://stream.liteiptv.ru/news24?.m3u8
+#EXTINF:0 group-title="Украина",100% News
+http://stream.liteiptv.ru/100news?.m3u8
+#EXTINF:0 group-title="Украина",NewsOne HD
+rtmp://176.111.63.130:1935/newsone/720
+#EXTINF:0 group-title="Региональные Украина",=== РЕГИОНАЛЬНЫЕ УКРАИНА ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Региональные Украина",Думская ТВ 
+http://stream.liteiptv.ru/dumskaya?.m3u8
+#EXTINF:0 group-title="Региональные Украина",7 канал Одесса
+http://stream.liteiptv.ru/odessa7?.m3u8
+#EXTINF:0 group-title="Региональные Украина",RENOME Одесса
+http://stream.liteiptv.ru/renome?.m3u8
+#EXTINF:0 group-title="Региональные Украина",ATR
+http://stream.liteiptv.ru/atr?.m3u8
+#EXTINF:0 group-title="СНГ",=== СНГ ===
+http://bit.ly/liteiptvstart?.m3u8
+#EXTINF:0 group-title="СНГ",Беларусь 1
+http://stream.liteiptv.ru/by1?.m3u8
+#EXTINF:0 group-title="СНГ",Беларусь 24
+http://stream.liteiptv.ru/by24?.m3u8
+#EXTINF:0 group-title="СНГ",ОНТ
+http://stream.liteiptv.ru/ont?.m3u8
+#EXTINF:0 group-title="СНГ",Первый канал — Prime
+http://stream.liteiptv.ru/prime-1?.m3u8
+#EXTINF:0 group-title="СНГ",Moldova 1 
+http://stream.liteiptv.ru/md1?.m3u8
+#EXTINF:0 group-title="СНГ",РТР Молдова
+http://stream.liteiptv.ru/rtrmd?.m3u8
+#EXTINF:0 group-title="СНГ",ТНТ Bravo
+http://stream.liteiptv.ru/tntbravo?.m3u8
+#EXTINF:0 group-title="СНГ",СТС Мega
+http://stream.liteiptv.ru/stsmd?.m3u8
+#EXTINF:0 group-title="СНГ",Рен ТВ Молдова
+http://stream.liteiptv.ru/renmd?.m3u8
+#EXTINF:0 group-title="СНГ",ТВ7-НТВ
+http://stream.liteiptv.ru/ntv7?.m3u8
+#EXTINF:0 group-title="СНГ",Digi 24 
+http://stream.liteiptv.ru/digi24?.m3u8
+#EXTINF:0 group-title="СНГ",MBC HD 
+http://stream.liteiptv.ru/mdchd?.m3u8
+#EXTINF:0 group-title="СНГ",Pro TV
+http://stream.liteiptv.ru/protv?.m3u8
+#EXTINF:0 group-title="СНГ",Publika TV
+http://stream.liteiptv.ru/publikatv?.m3u8
+#EXTINF:0 group-title="СНГ",Realitatea TV 
+http://stream.liteiptv.ru/mdchannel1?.m3u8
+#EXTINF:0 group-title="СНГ",Canal 3 Moldova
+http://stream.liteiptv.ru/mdchannel3?.m3u8
+#EXTINF:0 group-title="СНГ",TVC-21
+http://stream.liteiptv.ru/tvc21?.m3u8
+#EXTINF:0 group-title="СНГ",TVR 
+http://stream.liteiptv.ru/mdchannel2?.m3u8
+#EXTINF:0 group-title="СНГ",LTV 1
+http://stream.liteiptv.ru/ltv1?.m3u8
+#EXTINF:0 group-title="СНГ",LRT Lituanica
+http://stream.liteiptv.ru/lrt1?.m3u8
+#EXTINF:0 group-title="СНГ",1 Georgian 
+http://stream.liteiptv.ru/1ge?.m3u8
+#EXTINF:0 group-title="СНГ",Рустави 2
+http://stream.liteiptv.ru/2ge?.m3u8
+#EXTINF:0 group-title="СНГ",КТК 
+http://stream.liteiptv.ru/ktk?.m3u8
+#EXTINF:0 group-title="СНГ",Казах ТВ
+http://stream.liteiptv.ru/kazakh?.m3u8
+#EXTINF:0 group-title="СНГ",1 Приднестровский
+http://stream.liteiptv.ru/1pridnestr?.m3u8
+#EXTINF:0 group-title="Музыка",=== МУЗЫКА ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Музыка",MTV Россия
+http://stream.liteiptv.ru/mtv_russia
+#EXTINF:0 group-title="Музыка",Музыка Первого
+http://stream.liteiptv.ru/muz_pervogo
+#EXTINF:0 group-title="Музыка",RUSONG TV
+http://stream.liteiptv.ru/bestoftheworld_rusong
+#EXTINF:0 group-title="Музыка",Bridge TV
+http://stream.liteiptv.ru/bridge?.m3u8
+#EXTINF:0 group-title="Музыка",RU TV
+http://stream.liteiptv.ru/rutv?.m3u8
+#EXTINF:0 group-title="Музыка",RU TV Молдова
+http://stream.liteiptv.ru/mdrutv?.m3u8
+#EXTINF:0 group-title="Музыка",Для Двоих 
+http://stream.liteiptv.ru/2music?.m3u8
+#EXTINF:0 group-title="Музыка",Для Двоих HD
+http://stream.liteiptv.ru/2music_hd?.m3u8
+#EXTINF:0 group-title="Музыка",Music Box UA
+http://stream.liteiptv.ru/mbua?.m3u8
+#EXTINF:0 group-title="Музыка",MTV Music UK
+http://stream.liteiptv.ru/mtvmusicuk
+#EXTINF:0 group-title="Музыка",VH1 UK
+http://stream.liteiptv.ru/vh1
+#EXTINF:0 group-title="Музыка",DANGE TV
+http://stream.liteiptv.ru/dange
+#EXTINF:0 group-title="Музыка",#Пик ТВ
+http://msk3.peers.tv/streaming/pik_hd/126/hd/playlist.m3u8
+#EXTINF:0 group-title="Музыка",One.by
+http://rtmp.one.by:1200
+#EXTINF:0 group-title="Музыка",One.by HD
+http://rtmp.one.by:1300
+#EXTINF:0 group-title="Музыка",One.by UHD
+http://rtmp.one.by:1400
+#EXTINF:0 group-title="Музыка",One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:0 group-title="Музыка",One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:0 group-title="Музыка",JuCeTV HD Россия
+http://stream.liteiptv.ru/jusetv_hd?.m3u8
+#EXTINF:0 group-title="Музыка",Шансон-ТВ
+http://stream.liteiptv.ru/shanson?.m3u8
+#EXTINF:0 group-title="Музыка",MTV.AM 
+http://stream.liteiptv.ru/mtvam?.m3u8
+#EXTINF:0 group-title="Музыка",MTV AM HD
+http://stream.liteiptv.ru/mtvamhd?.m3u8
+#EXTINF:0 group-title="Музыка",Nebiset
+http://stream.liteiptv.ru/nebiset?.m3u8
+#EXTINF:0 group-title="Музыка",Курай
+http://stream.liteiptv.ru/kurai?.m3u8
+#EXTINF:0 group-title="Музыка",Ocko Hit
+http://stream.liteiptv.ru/ocko_hit?.m3u8
+#EXTINF:0 group-title="Музыка",Ocko Gold
+http://stream.liteiptv.ru/ogold?.m3u8
+#EXTINF:0 group-title="Музыка",Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Eska Best 
+http://stream.smcloud.net:1935/live2/best/best_480p/playlist.sd.stream.m3u8
+#EXTINF:0 group-title="Музыка",Eska Best HD
+http://stream.smcloud.net:1935/live2/best/best_720p/playlist.hd.stream.m3u8
+#EXTINF:0 group-title="Музыка",Eska Rock TV
+http://stream.smcloud.net/live2/eska_rock/eska_rock_480p/Eska&Rock&TV.m3u8
+#EXTINF:0 group-title="Музыка",Eska Rock TV HD
+http://stream.smcloud.net/live2/eska_rock/eska_rock_720p/Eska&Rock&TV.m3u8
+#EXTINF:0 group-title="Музыка",Eska Party TV
+http://stream.smcloud.net/live2/eska_party/eska_party_480p/Eska&Party&TV.m3u8
+#EXTINF:0 group-title="Музыка",Eska Party TV HD
+http://stream.smcloud.net/live2/eska_party/eska_party_720p/Eska&Party&TV.m3u8
+#EXTINF:0 group-title="Музыка",Eska VOX Old's cool 
+http://stream.smcloud.net/live2/vox/vox_480p/liteiptvsd.m3u8
+#EXTINF:0 group-title="Музыка",Eska VOX Old's cool HD
+http://stream.smcloud.net/live2/vox/vox_720p/liteiptvhd.m3u8
+#EXTINF:0 group-title="Музыка",Radio Monte Carlo TV
+http://stream.liteiptv.ru/musicch1?.m3u8
+#EXTINF:0 group-title="Музыка",Kiss TV
+http://stream.liteiptv.ru/musicch2?.m3u8
+#EXTINF:0 group-title="Музыка",DOT Dance
+http://stream.liteiptv.ru/dotdancehd?.m3u8
+#EXTINF:0 group-title="Музыка",Dream
+http://stream.liteiptv.ru/musicch3?.m3u8
+#EXTINF:0 group-title="Музыка",Radio 105 TV
+http://stream.liteiptv.ru/musicch5?.m3u8
+#EXTINF:0 group-title="Музыка",Clubland
+http://stream.liteiptv.ru/clubland?.m3u8
+#EXTINF:0 group-title="Музыка",Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0 group-title="Музыка",Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0 group-title="Музыка",Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 group-title="Музыка",Virgin TV Radio
+http://stream.liteiptv.ru/virginradio?.m3u8
+#EXTINF:0 group-title="Музыка",Retro TV
+http://stream.liteiptv.ru/retrocz?.m3u8
+#EXTINF:0 group-title="Детские",=== ДЕТСКИЕ ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Детские",Сartoon Network
+http://stream.liteiptv.ru/cn
+#EXTINF:0 group-title="Детские",Boomerang
+http://stream.liteiptv.ru/boomerang
+#EXTINF:0 group-title="Детские",Nickelodeon
+http://stream.liteiptv.ru/nickelodeon?.m3u8
+#EXTINF:0 group-title="Детские",Nick Jr.
+http://stream.liteiptv.ru/nickjrr
+#EXTINF:0 group-title="Детские",Телеканал Деда Мороза (01.12-31.01)
+http://stream.liteiptv.ru/dedmoroz
+#EXTINF:0 group-title="Детские",QTV
+http://stream.liteiptv.ru/qtv
+#EXTINF:0 group-title="Детские",Детский
+http://stream.liteiptv.ru/detsky?.m3u8
+#EXTINF:0 group-title="Детские",Disney
+http://stream.liteiptv.ru/disney?.m3u8
+#EXTINF:0 group-title="Детские",Карусель
+http://stream.liteiptv.ru/karusel?.m3u8
+#EXTINF:0 group-title="Детские",Мульт
+http://stream.liteiptv.ru/mult?.m3u8
+#EXTINF:0 group-title="Детские",Ani
+http://stream.liteiptv.ru/ani?.m3u8
+#EXTINF:0 group-title="Детские",Рыжий
+http://stream.liteiptv.ru/ryzii?.m3u8
+#EXTINF:0 group-title="Детские",Сказки Зайки 
+http://stream.liteiptv.ru/kidsch1?.m3u8
+#EXTINF:0 group-title="Детские",Балапан
+http://stream.liteiptv.ru/balapan?.m3u8
+#EXTINF:0 group-title="Детские",Lale
+http://stream.liteiptv.ru/lale?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",=== ФИЛЬМЫ И СЕРИАЛЫ ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Фильмы и Сериалы",Amedia 1
+http://stream.liteiptv.ru/amedia1
+#EXTINF:0 group-title="Фильмы и Сериалы",TV1000
+http://stream.liteiptv.ru/tv1000
+#EXTINF:0 group-title="Фильмы и Сериалы",TV1000 Action East
+http://stream.liteiptv.ru/tv1000ac
+#EXTINF:0 group-title="Фильмы и Сериалы",TV1000 Русское кино
+http://stream.liteiptv.ru/tv1000ru
+#EXTINF:0 group-title="Фильмы и Сериалы",TV1000 Comedy HD*
+http://stream.liteiptv.ru/tv1000comedyhd
+#EXTINF:0 group-title="Фильмы и Сериалы",TV1000 Premium HD*
+http://stream.liteiptv.ru/tv1000premiumhd
+#EXTINF:0 group-title="Фильмы и Сериалы",TV1000 Megahit HD*
+http://stream.liteiptv.ru/tv1000megahithd
+#EXTINF:0 group-title="Фильмы и Сериалы",HD Кино*
+http://stream.liteiptv.ru/hdkino
+#EXTINF:0 group-title="Фильмы и Сериалы",HD Кино 2*
+http://stream.liteiptv.ru/hdkino-2
+#EXTINF:0 group-title="Фильмы и Сериалы",Кинопоказ HD-1*
+http://stream.liteiptv.ru/kinopokazhd-1
+#EXTINF:0 group-title="Фильмы и Сериалы",Кинопоказ HD-2*
+http://stream.liteiptv.ru/kinopokazhd-2
+#EXTINF:0 group-title="Фильмы и Сериалы",КиноПремиум HD*
+http://stream.liteiptv.ru/kinopremiumhd
+#EXTINF:0 group-title="Фильмы и Сериалы",Остросюжетное HD*
+http://stream.liteiptv.ru/ostrosuzetnoehd
+#EXTINF:0 group-title="Фильмы и Сериалы",Семейное HD*
+http://stream.liteiptv.ru/semeinoehd
+#EXTINF:0 group-title="Фильмы и Сериалы",Наше HD*
+http://stream.liteiptv.ru/nashehd
+#EXTINF:0 group-title="Фильмы и Сериалы",Страшное HD*
+http://stream.liteiptv.ru/strashnoehd
+#EXTINF:0 group-title="Фильмы и Сериалы",FOX
+http://stream.liteiptv.ru/fox
+#EXTINF:0 group-title="Фильмы и Сериалы",FOX HD*
+http://stream.liteiptv.ru/foxhd
+#EXTINF:0 group-title="Фильмы и Сериалы",FOX Life HD*
+http://stream.liteiptv.ru/foxlifehd
+#EXTINF:0 group-title="Фильмы и Сериалы",Paramount Comedy 
+http://stream.liteiptv.ru/paramountcomedy?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",НТВ+ Премьера
+http://stream.liteiptv.ru/ntv_premiera
+#EXTINF:0 group-title="Фильмы и Сериалы",НТВ+ КиноКлуб
+http://stream.liteiptv.ru/ntv_kinoklub
+#EXTINF:0 group-title="Фильмы и Сериалы",НТВ+ КиноХит
+http://stream.liteiptv.ru/kinohite
+#EXTINF:0 group-title="Фильмы и Сериалы",НТВ+ Наше Новое Кино
+http://stream.liteiptv.ru/nashenovoekino
+#EXTINF:0 group-title="Фильмы и Сериалы",Русский Иллюзион
+http://stream.liteiptv.ru/kino3?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",Русский роман
+http://stream.liteiptv.ru/roman?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",Русский детектив
+http://stream.liteiptv.ru/rusdetective
+#EXTINF:0 group-title="Фильмы и Сериалы",Русская комедия
+http://stream.liteiptv.ru/rus_shlack
+#EXTINF:0 group-title="Фильмы и Сериалы",Мужское Кино
+http://stream.liteiptv.ru/mankino
+#EXTINF:0 group-title="Фильмы и Сериалы",Еврокино 
+http://stream.liteiptv.ru/kino1?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",Иллюзион+
+http://stream.liteiptv.ru/kino2?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",AMC
+http://stream.liteiptv.ru/amc
+#EXTINF:0 group-title="Фильмы и Сериалы",Sony Sci-Fi 
+http://stream.liteiptv.ru/scifi?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",ТВ-21
+http://stream.liteiptv.ru/tv21?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",Индия ТВ
+http://stream.liteiptv.ru/indiya?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",Феникс+Кино
+http://stream.liteiptv.ru/fenix?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",Дом Кино
+http://stream.liteiptv.ru/domkino?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",Комедия ТВ
+http://stream.liteiptv.ru/komediya?.m3u8
+#EXTINF:0 group-title="Фильмы и Сериалы",НСТ
+http://stream.liteiptv.ru/nst?.m3u8
+#EXTINF:0 group-title="Познавательные",=== ПОЗНАВАТЕЛЬНЫЕ ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Познавательные",Discovery 
+http://stream.liteiptv.ru/discovery?.m3u8
+#EXTINF:0 group-title="Познавательные",Discovery HD*
+http://stream.liteiptv.ru/discoveryhd
+#EXTINF:0 group-title="Познавательные",Discovery Central Europe
+http://stream.liteiptv.ru/discoveryce
+#EXTINF:0 group-title="Познавательные",Discovery Science
+http://stream.liteiptv.ru/science
+#EXTINF:0 group-title="Познавательные",Discovery Science HD*
+http://stream.liteiptv.ru/dsciencehd
+#EXTINF:0 group-title="Познавательные",IDX
+http://stream.liteiptv.ru/idx
+#EXTINF:0 group-title="Познавательные",DTX
+http://stream.liteiptv.ru/dtx
+#EXTINF:0 group-title="Познавательные",Animal Planet
+http://stream.liteiptv.ru/animalplanet?.m3u8
+#EXTINF:0 group-title="Познавательные",Animal Planet HD*
+http://stream.liteiptv.ru/aplanethd
+#EXTINF:0 group-title="Познавательные",TLC HD*
+http://stream.liteiptv.ru/tlchd
+#EXTINF:0 group-title="Познавательные",Nat Geo
+http://stream.liteiptv.ru/natgeo?.m3u8
+#EXTINF:0 group-title="Познавательные",Nat Geo HD*
+http://stream.liteiptv.ru/natgeohd
+#EXTINF:0 group-title="Познавательные",Nat Geo Wild
+http://stream.liteiptv.ru/ngwild
+#EXTINF:0 group-title="Познавательные",Nat Geo Wild HD*
+http://stream.liteiptv.ru/natgeowildhd
+#EXTINF:0 group-title="Познавательные",Eureka HD
+http://stream.liteiptv.ru/eurekahd
+#EXTINF:0 group-title="Познавательные",Animal Family HD
+http://stream.liteiptv.ru/familyhd
+#EXTINF:0 group-title="Познавательные",Viasat Explore Россия
+http://stream.liteiptv.ru/explore?.m3u8
+#EXTINF:0 group-title="Познавательные",Viasat History 
+http://stream.liteiptv.ru/viahistory?.m3u8
+#EXTINF:0 group-title="Познавательные",Viasat Nature
+http://stream.liteiptv.ru/vianature
+#EXTINF:0 group-title="Познавательные",History 
+http://stream.liteiptv.ru/history1945
+#EXTINF:0 group-title="Познавательные",24 Doc 
+http://stream.liteiptv.ru/24doc?.m3u8
+#EXTINF:0 group-title="Познавательные",Наука 2.0
+http://stream.liteiptv.ru/n2.0?.m3u8
+#EXTINF:0 group-title="Познавательные",IQ
+http://stream.liteiptv.ru/iq
+#EXTINF:0 group-title="Познавательные",Морской (Nautcal)
+http://stream.liteiptv.ru/morskoy
+#EXTINF:0 group-title="Познавательные",Моя Планета
+http://stream.liteiptv.ru/moyaplaneta1
+#EXTINF:0 group-title="Познавательные",RTG
+http://stream.liteiptv.ru/rtg 
+#EXTINF:0 group-title="Познавательные",RTG HD*
+http://stream.liteiptv.ru/rtghd
+#EXTINF:0 group-title="Познавательные",Galaxy
+http://stream.liteiptv.ru/galaxy 
+#EXTINF:0 group-title="Познавательные",RT Д (English)
+http://stream.liteiptv.ru/rtden?.m3u8
+#EXTINF:0 group-title="Познавательные",Страна
+http://stream.liteiptv.ru/strana?.m3u8
+#EXTINF:0 group-title="Развлекательные",=== РАЗВЛЕКАТЕЛЬНЫЕ ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Развлекательные",Еда
+http://stream.liteiptv.ru/eda
+#EXTINF:0 group-title="Развлекательные",World Fashion Россия HD
+http://stream.liteiptv.ru/wfruhd?.m3u8
+#EXTINF:0 group-title="Развлекательные",World Fashion Europe HD
+http://stream.liteiptv.ru/wfeuhd?.m3u8
+#EXTINF:0 group-title="Развлекательные",TLC Россия
+http://stream.liteiptv.ru/tlcrussia
+#EXTINF:0 group-title="Развлекательные",Бобёр
+http://stream.liteiptv.ru/angry_beavers
+#EXTINF:0 group-title="Развлекательные",Сарафан
+http://stream.liteiptv.ru/sarafan
+#EXTINF:0 group-title="Развлекательные",Трофей HD
+http://stream.liteiptv.ru/trofeyhd?.m3u8
+#EXTINF:0 group-title="Развлекательные",Охота и рыбалка
+http://stream.liteiptv.ru/razv1?.m3u8
+#EXTINF:0 group-title="Развлекательные",Охотник и Рыболов HD
+http://stream.liteiptv.ru/ohotnikhd
+#EXTINF:0 group-title="Развлекательные",Оружие
+http://stream.liteiptv.ru/oryzie
+#EXTINF:0 group-title="Развлекательные",Travel
+http://stream.liteiptv.ru/travelchannel
+#EXTINF:0 group-title="Развлекательные",TeleTravel HD
+http://stream.liteiptv.ru/teletravelhd
+#EXTINF:0 group-title="Развлекательные",Авто плюс
+http://stream.liteiptv.ru/autoplus?.m3u8
+#EXTINF:0 group-title="Развлекательные",Ретро 
+http://stream.liteiptv.ru/retro?.m3u8
+#EXTINF:0 group-title="Развлекательные",Вопросы и Ответы
+http://stream.liteiptv.ru/razv2?.m3u8
+#EXTINF:0 group-title="Развлекательные",Усадьба
+http://stream.liteiptv.ru/usadba?.m3u8
+#EXTINF:0 group-title="Развлекательные",Парк развлечений 
+http://msk3.peers.tv/streaming/ipark/16/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",ТНТ Comedy
+http://stream.liteiptv.ru/comedy?.m3u8
+#EXTINF:0 group-title="Развлекательные",Hello TV HD
+http://stream.liteiptv.ru/hello?.m3u8
+#EXTINF:0 group-title="Развлекательные",Univer Smotri
+http://stream.liteiptv.ru/univer?.m3u8
+#EXTINF:0 group-title="Развлекательные",Univer Smotri HD
+http://stream.liteiptv.ru/univerhd?.m3u8
+#EXTINF:0 group-title="Развлекательные",AnyDay HD
+http://stream.liteiptv.ru/anydayhd?.m3u8
+#EXTINF:0 group-title="Развлекательные",AnyDay HD 3D
+http://stream.liteiptv.ru/anyday3d?.m3u8
+#EXTINF:0 group-title="Развлекательные",Glazzela HD
+http://stream.liteiptv.ru/glazellahd?.m3u8
+#EXTINF:0 group-title="Развлекательные",Glazzela HD 3D
+http://stream.liteiptv.ru/glazella3d?.m3u8
+#EXTINF:0 group-title="Развлекательные",Mute HD
+http://stream.liteiptv.ru/mute?.m3u8
+#EXTINF:0 group-title="Развлекательные",Mute HD 3D
+http://stream.liteiptv.ru/mute3d?.m3u8
+#EXTINF:0 group-title="Развлекательные",Дайвинг.TV 
+http://stream.liteiptv.ru/daiving?.m3u8
+#EXTINF:0 group-title="Развлекательные",Теледом
+http://stream.liteiptv.ru/teledom?.m3u8
+#EXTINF:0 group-title="Развлекательные",= Ещё не состоите в нашей группе ВКонтакте? =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Развлекательные",= Добавляйтесь скорее! =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Развлекательные",= VK.COM/LITEIPTV =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Спортивные",=== СПОРТ ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Спортивные",Матч ТВ
+http://msk3.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Спортивные",Матч ТВ HD
+http://stream.liteiptv.ru/matchhd
+#EXTINF:0 group-title="Спортивные",Eurosport 1
+http://stream.liteiptv.ru/eurosport1
+#EXTINF:0 group-title="Спортивные",Eurosport 1 HD*
+http://stream.liteiptv.ru/eurosport1hd
+#EXTINF:0 group-title="Спортивные",Eurosport 2 
+http://stream.liteiptv.ru/eurosport2?.m3u8
+#EXTINF:0 group-title="Спортивные",Сетанта Спорт HD
+http://stream.liteiptv.ru/setantahd_udplite
+#EXTINF:0 group-title="Спортивные",HD Спорт*
+http://stream.liteiptv.ru/hdsport
+#EXTINF:0 group-title="Спортивные",НТВ+ Спорт Плюс
+http://stream.liteiptv.ru/splus
+#EXTINF:0 group-title="Спортивные",НТВ+ Баскетбол
+http://stream.liteiptv.ru/ntv-tennis
+#EXTINF:0 group-title="Спортивные",НТВ+ Теннис
+http://stream.liteiptv.ru/ntv-tennis2
+#EXTINF:0 group-title="Спортивные",НТВ+ Футбол 1
+http://stream.liteiptv.ru/futbol1
+#EXTINF:0 group-title="Спортивные",НТВ+ Футбол 2
+http://stream.liteiptv.ru/futbol2hd
+#EXTINF:0 group-title="Спортивные",НТВ+ Футбол 3
+http://stream.liteiptv.ru/futbol3hd
+#EXTINF:0 group-title="Спортивные",НТВ+ Футбол 1 HD*
+http://stream.liteiptv.ru/ntvfutbol1hd
+#EXTINF:0 group-title="Спортивные",НТВ+ Футбол 2 HD*
+http://stream.liteiptv.ru/ntvfutbol2hd
+#EXTINF:0 group-title="Спортивные",НТВ+ Футбол 3 HD*
+http://stream.liteiptv.ru/ntvfutbol3hd
+#EXTINF:0 group-title="Спортивные",Наш Футбол
+http://stream.liteiptv.ru/nashfutbol123
+#EXTINF:0 group-title="Спортивные",Наш Футбол HD*
+http://stream.liteiptv.ru/nenashfutbol
+#EXTINF:0 group-title="Спортивные",Футбол 1 Украина*
+http://stream.liteiptv.ru/futbol1ua
+#EXTINF:0 group-title="Спортивные",Футбол 2 Украина*
+http://stream.liteiptv.ru/f2ua
+#EXTINF:0 group-title="Спортивные",КХЛ ТВ 
+http://stream.liteiptv.ru/khl?.m3u8
+#EXTINF:0 group-title="Спортивные",КХЛ HD*
+http://stream.liteiptv.ru/khlhd
+#EXTINF:0 group-title="Спортивные",Спорт
+http://stream.liteiptv.ru/sp?.m3u8
+#EXTINF:0 group-title="Спортивные",Спорт 1 Россия*
+http://stream.liteiptv.ru/sp1
+#EXTINF:0 group-title="Спортивные",Спорт 1 HD*
+http://stream.liteiptv.ru/sp1hd
+#EXTINF:0 group-title="Спортивные",Спорт 1 Украина
+http://video.pvplus.tv/sport1l.m3u8
+#EXTINF:0 group-title="Спортивные",Спорт 2 Украина
+http://video.pvplus.tv/sport2l.m3u8
+#EXTINF:0 group-title="Спортивные",Боец 
+http://stream.liteiptv.ru/boetz?.m3u8
+#EXTINF:0 group-title="Спортивные",Бокс ТВ
+http://stream.liteiptv.ru/boks?.m3u8
+#EXTINF:0 group-title="Спортивные",Русский Экстрим
+http://stream.liteiptv.ru/rus_extreme?.m3u8
+#EXTINF:0 group-title="Спортивные",KazSport
+http://stream.liteiptv.ru/kazsport?.m3u8
+#EXTINF:0 group-title="Спортивные",Viasat Sport
+http://stream.liteiptv.ru/viasport?.m3u8
+#EXTINF:0 group-title="Спортивные",Viasat Hockey
+http://stream.liteiptv.ru/viahockey
+#EXTINF:0 group-title="Спортивные",Sky Sport 1 UK
+http://stream.liteiptv.ru/sksp1uk
+#EXTINF:0 group-title="Спортивные",Sky Sport 2 UK
+http://stream.liteiptv.ru/sksp2uk
+#EXTINF:0 group-title="Спортивные",Sky Sport 3 UK
+http://stream.liteiptv.ru/sksp3
+#EXTINF:0 group-title="Спортивные",Sky Sport 4 UK
+http://stream.liteiptv.ru/skysport3
+#EXTINF:0 group-title="Спортивные",Sky Sport 5 UK
+http://stream.liteiptv.ru/sksp23
+#EXTINF:0 group-title="Спортивные",Sky Sport F1 UK
+http://stream.liteiptv.ru/skysportf1uk
+#EXTINF:0 group-title="Спортивные",Sky Sport News UK
+http://stream.liteiptv.ru/skysportnewsuk
+#EXTINF:0 group-title="Спортивные",British Eurosport 1
+http://stream.liteiptv.ru/be1
+#EXTINF:0 group-title="Спортивные",British Eurosport 2
+http://stream.liteiptv.ru/be2
+#EXTINF:0 group-title="Спортивные",BT Sport 1
+http://stream.liteiptv.ru/btsp1
+#EXTINF:0 group-title="Спортивные",BT Sport 2
+http://stream.liteiptv.ru/btsp2
+#EXTINF:0 group-title="Спортивные",BT Sport//ESPN
+http://stream.liteiptv.ru/btsport-espn
+#EXTINF:0 group-title="Спортивные",Premier Sport
+http://stream.liteiptv.ru/prsport
+#EXTINF:0 group-title="Спортивные",Box Nation
+http://stream.liteiptv.ru/bxnation
+#EXTINF:0 group-title="Спортивные",beIN Sport 1 Arabic
+http://stream.liteiptv.ru/bein1
+#EXTINF:0 group-title="Спортивные",beIN Sport 11
+http://stream.liteiptv.ru/bein11
+#EXTINF:0 group-title="Спортивные",beIN Sport 12
+http://stream.liteiptv.ru/bein12
+#EXTINF:0 group-title="Информация",=== ИНФОРМАЦИЯ ===
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Информация",= Версия плейлиста: v10.8 =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Информация",= Наш сайт liteiptv.ru =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Информация",= Наша группа ВКонтакте vk.com/liteiptv =
+http://bit.ly/liteiptvstart
+#EXTINF:0 group-title="Информация",= Последнее обновление 20.12.15 MSK =
+http://bit.ly/liteiptvstart
