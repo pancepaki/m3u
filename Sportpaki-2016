@@ -1,0 +1,96 @@
+EXTM3U # 
+#EXTINF: 0 Football 1 (UKR) 
+http://stream.liteiptv.ru/futbol1ua 
+#EXTINF: 0, Football 2 (UKR) 
+http://stream.liteiptv.ru/f2ua 
+#EXTINF: 0, Football 2 (UKR) 
+http://62.244.55.90:4022/udp/225.1.3.102:4001 
+#EXTINF: 0, Sport 1 (UKR) 
+http://video.pvplus.tv/sport1l.m3u8 
+#EXTINF: 0 Sports 2 (UKR) 
+http://video.pvplus.tv/sport2l.m3u8 
+#EXTINF: -1, NTV + Football 1 (RUS) 
+http://en356.edem.tv/iptv/YVQTADDF9T6FGU/124/index.m3u8 
+# EXTINF: 0, NTV + Football 1 
+http://stream.liteiptv.ru/futbol1 
+#EXTINF: 0, NTV Plus Football 2 (RUS) 
+http://en356.edem.tv/iptv/YVQTADDF9T6FGU/530/index.m3u8 
+#EXTINF: 0, NTV Plus Football 2 
+http://stream.liteiptv.ru/futbol2hd 
+#EXTINF: 0, NTV + Football 3 (RUS) 
+http://en356.edem.tv/iptv/YVQTADDF9T6FGU/522/index. m3u8 
+#EXTINF: 0, NTV + Football 3 
+http://stream.liteiptv.ru/futbol3hd 
+#EXTINF: -1, NTV Plus Sport (RUS) 
+http://en356.edem.tv/iptv/YVQTADDF9T6FGU/107/ index.m3u8 
+#EXTINF: 0, Sport 1 (RUS) 
+http: // 4BA9EBDB07C05883: @ 5.159.96.170: 8000 / sport1 
+#EXTINF: 0, Our football 
+http://en356.edem.tv/iptv/YVQTADDF9T6FGU/531/ index.m3u8 
+#EXTINF: 0, NTV Sport (RUS) 
+http://en356.edem.tv/iptv/YVQTADDF9T6FGU/123/index.m3u8 
+#EXTINF: -1, milan channel 
+http://iptvfull.ddns.net: 3389 / live / 123/123 / 244.m3u8 
+#EXTINF: 0, Viasat Sport 
+http://stream.liteiptv.ru/viasport?.m3u8 
+#EXTINF: 0, Viasat Hockey 
+http://stream.liteiptv.ru/viahockey 
+#EXTINF: 0, Sky Sport 1 UK 
+http://stream.liteiptv.ru/sksp1uk 
+#EXTINF: 0, Sky Sport 2 UK 
+http://stream.liteiptv.ru/sksp2uk 
+#EXTINF: 0, Sky Sport 3 UK 
+http : //stream.liteiptv.ru/sksp3 
+#EXTINF: 0, Sky Sport 4 UK 
+http://stream.liteiptv.ru/skysport3 
+#EXTINF: 0, Sky Sport 5 UK 
+http://stream.liteiptv.ru/sksp23 
+#EXTINF: 0 ", Sky Sport F1 UK 
+http://stream.liteiptv.ru/skysportf1uk 
+#EXTINF: 0, Sky Sport News UK 
+http://stream.liteiptv.ru/skysportnewsuk 
+#EXTINF: 0, Setanta Sport HD 
+http : //btv.mnogo-tv.com: 3663 / free / action / 21 
+#EXTINF: 0, Setanta Sport + HD 
+http://btv.mnogo-tv.com:3663/free/action/22 
+#EXTINF: 0 British Eurosport 1 
+http://stream.liteiptv.ru/be1 
+#EXTINF: 0, British Eurosport 2 
+http://stream.liteiptv.ru/be2 
+#EXTINF: 0, BT Sport 1 
+http://stream.liteiptv.ru / btsp1 
+#EXTINF: 0, BT Sport 2 
+http://stream.liteiptv.ru/btsp2 
+#EXTINF: 0, BT Sport // ESPN 
+http://stream.liteiptv.ru/btsport-espn 
+#EXTINF: 0, Premier Sport 
+http://stream.liteiptv.ru/prsport 
+#EXTINF: 0, Box Nation 
+http://stream.liteiptv.ru/bxnation 
+#EXTINF: 0, beIN Sports 
+http://micutzuiptv.noip.me:8000/live /bein/bein/30.ts 
+#EXTINF: -1, SKY HD SUPERCALCIO 
+http://iptvfull.ddns.net:3389/live/123/123/52.m3u8 
+#EXTINF: -1, Sky Calcio 1 HD 
+http: //iptvfull.ddns.net:3389/live/123/123/71.m3u8 
+#EXTINF: -1, Sky Calcio 2 HD 
+http://iptvfull.ddns.net:3389/live/123/123/1119.m3u8 
+#EXTINF: -1, Sky Calcio 3 HD 
+http://iptvfull.ddns.net:3389/live/123/123/1120.m3u8 
+#EXTINF: -1, 4 calcio SKY HD 
+http://iptvfull.ddns.net : 3389 / live / 123/123 / 1495.m3u8 
+#EXTINF: -1, Sky Calcio 5 HD 
+http://iptvfull.ddns.net:3389/live/123/123/1178.m3u8 
+#EXTINF: -1, Sky Calcio 6 HD 
+http://iptvfull.ddns.net:3389/live/123/123/1179.m3u8 
+#EXTINF: -1, Sky Calcio 7 HD 
+http://iptvfull.ddns.net:3389/live/123/ 123 / 1180.m3u8 
+#EXTINF: -1, SKY CALCIO 8 
+http://iptvfull.ddns.net:3389/live/123/123/2430.m3u 
+#EXTINF: 0, KHL (RUS) 
+http: // en356. edem.tv/iptv/YVQTADDF9T6FGU/519/index.m3u8 
+#EXTINF: 0 UA hel.tv 
+http://play.lanet.tv/live/1004.m3u8 
+#EXTINF: 0, NTV Tennis 
+http: // en356. edem.tv/iptv/YVQTADDF9T6FGU/528/index.m3u8 
+#EXTINF: 0, NTV 1 http://stream.liteiptv.ru/eurosport1 #EXTINF: -1, Eurosport 2 http://en356.edem.tv/iptv/YVQTADDF9T6FGU/539/index.m3u8 #EXTINF: 0, Eurosport Channel 7 Sports http://en356.edem.tv/iptv/YVQTADDF9T6FGU/144/index.m3u8
