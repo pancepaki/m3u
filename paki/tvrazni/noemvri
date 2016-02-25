@@ -2958,4 +2958,47 @@ rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 #EXTINF:0, Football (RU)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-
+#EXTINF:0,Македонска Телевизија 1
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3551/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w2141491901_b1196000.m3u8 #EXTINF:0,Македонска Телевизија 2 МултиЕтнички Јазик http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w55190976_b1196000.m3u8
+ #EXTINF:0,Македонска Телевизија 3
+ http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3545/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w927907065_b1196000.m3u8
+ #EXTINF:0,Македонска Телевизија сателит 1 
+  http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt1-sat/chunklist_w636127703.m3u8
+  #EXTINF:0,СИТЕЛ Телевизија
+  http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
+  #EXTINF:0,СИТЕЛ 3 Телевизија
+  http://fms.zulu.mk:554/zulu/sitel3_1/playlist_b125000_w1132785237.m3u8
+ #EXTINF:0,КАНАЛ 5 Телевизија
+   http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
+   #EXTINF:0,КАНАЛ 5+ Телевизија
+   http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
+    #EXTINF:0,АЛФА Телевизија
+     http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
+   #EXTINF:0,ТЕЛМА Телевизија
+   http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
+   #EXTINF:0,24 ВЕСТИ
+    mms://62.162.58.55/24vesti
+   #EXTINF:0,ШУТЕЛ Телевизија
+   http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
+    #EXTINF:0,НАША ТВ Телевизија
+   http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
+    #EXTINF:-1,О2 ОХРИД Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8
+   #EXTINF:0,К1 ВЕЛЕС Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/chunklist.m3u8
+   #EXTINF:0,УЛТРА ТЕТОВО Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/chunklist.m3u8
+   #EXTINF:0,К3 КУМАНОВО Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/chunklist.m3u8
+   #EXTINF:0,МЕГА БИТОЛА Телевизија
+  http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/chunklist.m3u8
+  #EXTINF:0,К+ ШТИП Телевизија
+  http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/chunklist.m3u8
+   #EXTINF:0,А1 СТРУМИЦА Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
+   #EXTINF:-1,ИН ТВ ОХРИД Музика
+   rtsp://streamus.intv.mk:1935/live/intv
+   #EXTINF:0,КАНАЛ 8 Телевизија
+   mms://62.162.58.55/TVkanal8
+   #EXTINF:0,КАНАЛ21 Телевизија
+   mms://62.162.58.55/TVkanal21  
