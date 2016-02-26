@@ -49,6 +49,51 @@ http://www.xrxs.net/video/live-p12netw-4728.m3u8
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:0,A1 Strumica
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
+#EXTINF:0,kplus-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/playlist.m3u8
+#EXTINF:0,k1-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/playlist.m3u8
+#EXTINF:0,o2-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/playlist.m3u8
+#EXTINF:0,a1
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/playlist.m3u8
+#EXTINF:0,ultra-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/playlist.m3u8
+#EXTINF:0,mega-bitola
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/playlist.m3u8
+#EXTINF:0,k3-tv-kumanovo
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/playlist.m3u8
+#EXTINF:0,kanal-3-debar
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kanal-3-debar/playlist.m3u8
+Kanal5 Plus
+http://gigaiptv.pro:8000/live/test/test/114.ts
+#EXTINF:-1,24 Vesti
+http://gigaiptv.pro:8000/live/test/test/415.ts
+#EXTINF:-1,Telma
+http://gigaiptv.pro:8000/live/test/test/115.ts
+#EXTINF:-1,Alfa
+http://gigaiptv.pro:8000/live/test/test/116.ts
+#EXTINF:-1,TV Skopje
+http://gigaiptv.pro:8000/live/test/test/117.ts
+#EXTINF:-1,BLA BLA
+http://gigaiptv.pro:8000/live/test/test/140.ts
+#EXTINF:-1,IN TV Avstralija
+http://gigaiptv.pro:8000/live/test/test/141.ts
+#EXTINF:-1,A1 Strumica
+http://gigaiptv.pro:8000/live/test/test/429.ts
+#EXTINF:-1,MegaTv Bitola
+http://gigaiptv.pro:8000/live/test/test/143.ts
+#EXTINF:-1,O2 Ohrid
+http://gigaiptv.pro:8000/live/test/test/328.ts
+#EXTINF:-1,K+ Stip
+http://gigaiptv.pro:8000/live/test/test/142.ts
+#EXTINF:-1,Shutel
+http://gigaiptv.pro:8000/live/test/test/149.ts
+#EXTINF:-1,Alsat M
+http://gigaiptv.pro:8000/live/test/test/118.ts
+#EXTINF:-1,ERA
+http://gigaiptv.pro:8000/live/test/test/147.ts
+
 #EXTINF:0,A1 Balkan
 rtmp://176.9.45.202:22222/live/alpha1
 #EXTINF:0,AUSTRIA 24
@@ -3356,3 +3401,439 @@ http://104.131.117.246:8081/chuy/76/2154-Tiin/playlist.m3u8
 #EXTINF:-1,CBEEBIES
 
 http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
+#EXTINF:-1,Cinemax+
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,F+
+http://77.76.140.251/prge.m3u8
+#EXTINF:-1,AXN
+http://77.76.140.251/prgd.m3u8
+#EXTINF:-1,MovieStar
+http://77.76.140.251/prgc.m3u8
+#EXTINF:-1,NatGeo
+http://77.76.140.251/prgf.m3u8
+#EXTINF:-1,DIscovery
+http://77.76.140.251/prgh.m3u8
+#EXTINF:-1,DiscoveryScience
+http://77.76.140.251/prgi.m3u8
+#EXTINF:-1,ViasatNature
+http://77.76.140.251/prgj.m3u8
+#EXTINF:-1,ViasatExplorer
+http://77.76.140.251/prgk.m3u8
+#EXTINF:-1,TheVoice
+http://77.76.140.251/prgm.m3u8
+#EXTINF:-1,HBO+
+http://77.76.140.251/prgp.m3u8
+#EXTINF:-1,NatGeoWild
+http://77.76.140.251/prgg.m3u8
+#EXTINF:-1,RingBG
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,Eurosport
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,Eurosport2
+http://77.76.140.251/prgt.m3u8
+#EXTINF:-1,TravelChannel
+http://77.76.140.251/prgu.m3u8
+#EXTINF:-1,AnimalPlanet
+http://77.76.140.251/prgw.m3u8
+#EXTINF:-1,NatGeoBG
+http://77.76.140.251/prgf.m3u8
+#EXTINF:-1,NatGeoWILD
+http://77.76.140.251/prgg.m3u8
+#EXTINF:-1,Discovery
+http://77.76.140.251/prgh.m3u8
+#EXTINF:-1,DiscoveryScience
+http://77.76.140.251/prgi.m3u8
+#EXTINF:-1,ViasatNature
+http://77.76.140.251/prgj.m3u8
+#EXTINF:-1,ViasatExplore
+http://77.76.140.251/prgk.m3u8
+#EXTINF:-1,?????????????
+http://77.76.140.251/prgl.m3u8
+#EXTINF:-1,HBOBG
+http://77.76.140.251/prgp.m3u8
+#EXTINF:-1,HBOComedy
+http://77.76.140.251/prga.m3u8
+#EXTINF:-1,Cinemax
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,MovieStar
+http://77.76.140.251/prgc.m3u8
+#EXTINF:-1,AXN
+http://77.76.140.251/prgd.m3u8
+#EXTINF:-1,F+
+http://77.76.140.251/prge.m3u8
+#EXTINF:-1,AutoMotorSport
+http://77.76.140.251/prgu.m3u8
+#EXTINF:-1,FilmBoxHD
+http://77.76.140.251/prga.m3u8
+#EXTINF:-1,FilmBox+HD
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,TheVoice
+http://77.76.140.251/prgm.m3u8
+#EXTINF:-1,SPORT KLUB 1
+http://83.139.104.123/Content/HLS/Live/Channel(SK_1)/Stream(04)/index.m3u8
+#EXTINF:-1,SPORT KLUB 2
+http://83.139.104.123/Content/HLS/Live/Channel(SK_2)/Stream(04)/index.m3u8
+#EXTINF:-1,SPORT KLUB 3
+http://83.139.104.123/Content/HLS/Live/Channel(SK_3)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.123/Content/HLS/Live/Channel(HTV1)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.123/Content/HLS/Live/Channel(HTV2)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.123/Content/HLS/Live/Channel(HTV3)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.123/Content/HLS/Live/Channel(HTV4)/Stream(04)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.123/Content/HLS/Live/Channel(CMC)/Stream(04)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.123/Content/HLS/Live/Channel(DMC)/Stream(04)/index.m3u8
+#EXTINF:-1,TLC
+http://83.139.104.123/Content/HLS/Live/Channel(TLC)/Stream(04)/index.m3u8
+#EXTINF:-1,vevo 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/468.m3u8
+#EXTINF:-1,vevo 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/467.m3u8
+#EXTINF:-1,vevo 1
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/466.m3u8
+#EXTINF:-1,SPORT TV HD 1080P *2 opção*
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/1.m3u8
+#EXTINF:-1,Sportv HD 1 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/517.m3u8
+#EXTINF:-1,Sportv 2 HD test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/503.m3u8
+#EXTINF:-1,Sportv 3 HD test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/563.m3u8
+#EXTINF:-1,Sportv 5 HD test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/577.m3u8
+#EXTINF:-1,Sportv 1 SD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/523.m3u8
+#EXTINF:-1,Sportv 2 SD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/524.m3u8
+#EXTINF:-1,Sportv 3 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/506.m3u8
+#EXTINF:-1,Sportv 4 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/519.m3u8
+#EXTINF:-1,Sportv 5 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/505.m3u8
+#EXTINF:-1,sportv 4
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/257.m3u8
+#EXTINF:-1,BenficaTV 1 SD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/502.m3u8
+#EXTINF:-1,BenficaTV 1 HD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/558.m3u8
+#EXTINF:-1,BenficaTV HD 2 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/557.m3u8
+#EXTINF:-1,BenficaTV SD 2 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/501.m3u8
+#EXTINF:-1,sporting test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/513.m3u8
+#EXTINF:-1,Sporting HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/719.m3u8
+#EXTINF:-1,sportv americas
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/458.m3u8
+#EXTINF:-1,eurosport 1 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/516.m3u8
+#EXTINF:-1,eurosport 2 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/561.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/486.m3u8
+#EXTINF:-1,Arena Sport 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/221.m3u8
+#EXTINF:-1,Arena Sport 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/224.m3u8
+#EXTINF:-1,Sport Klub HD 1
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/477.m3u8
+#EXTINF:-1,Sport Klub HD 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/478.m3u8
+#EXTINF:-1,Sport Klub HD 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/479.m3u8
+#EXTINF:-1,ES: CANAL+ LIGA
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/498.m3u8
+#EXTINF:-1,Bein Sport 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/474.m3u8
+#EXTINF:-1,AR: BeIN HD 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/491.m3u8
+#EXTINF:-1,Bein Sport 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/484.m3u8
+#EXTINF:-1,USA: beIN USA
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/490.m3u8
+#EXTINF:-1,US NBA
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/540.m3u8
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/497.m3u8
+#EXTINF:-1,DE: Sky Sporm3u8 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/480.m3u8
+#EXTINF:-1,DE: Sky Sporm3u8 2 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/481.m3u8
+#EXTINF:-1,Italian: Moto Gp
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/476.m3u8
+#EXTINF:-1,uk: Sky Sporm3u8 F1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/475.m3u8
+#EXTINF:-1,UK: Sky Sport 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/472.m3u8
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/473.m3u8
+#EXTINF:-1,BT SPORm3u8 1
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/487.m3u8
+#EXTINF:-1,BT SPORm3u8 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/488.m3u8
+#EXTINF:-1,USA: Fox Sporm3u8 1 HD testes
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/471.m3u8
+#EXTINF:-1,USA: Fox Sporm3u8 2 HD - UFC
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/470.m3u8
+#EXTINF:-1,Pink
+http://46.234.100.45:8080/pink/index.m3u8
+#EXTINF:-1,Pink 3
+http://46.234.100.45:8080/pink3/index.m3u8
+#EXTINF:-1,Pink Action
+http://46.234.100.45:8080/pinkaction/index.m3u8
+#EXTINF:-1,Pink Thriller
+http://46.234.100.45:8080/pinkthriller/index.m3u8
+#EXTINF:-1,Pink Horror
+http://46.234.100.45:8080/pinkhoror/index.m3u8
+#EXTINF:-1,Pink Comedy
+http://46.234.100.45:8080/pinkcomedy/index.m3u8
+#EXTINF:-1,pink Soap
+http://46.234.100.45:8080/pinksoap/index.m3u8
+#EXTINF:-1,Pink kids
+http://46.234.100.45:8080/pinkkids/index.m3u8
+#EXTINF:-1,Pink And Roll
+http://46.234.100.45:8080/pinkroll/index.m3u8
+#EXTINF:-1,Pink Crime&mystery
+http://46.234.100.45:8080/pinkcrime/index.m3u8
+#EXTINF:-1,Pink Western
+ http://46.234.100.45:8080/western/index.m3u8
+#EXTINF:-1,Pink Romance
+http://46.234.100.45:8080/pinkromance/index.m3u8
+#EXTINF:-1,Pink Koncert
+http://46.234.100.45:8080/koncert/index.m3u8
+#EXTINF:-1,Pink Movies
+http://46.234.100.45:8080/pinkmovies/index.m3u8
+#EXTINF:-1,Pink Premium
+http://46.234.100.45:8080/pinkpremium/index.m3u8
+#EXTINF:1,Pink Premium
+http://87.116.166.242:82/pztaldoopnm/pinkpremium.m3u8
+#EXTINF:1,Pink Comedy
+http://87.116.166.242:82/pztaldoopnm/pinkcomedy.m3u8
+#EXTINF:1,Pink Romance
+http://87.116.166.242:82/pztaldoopnm/pinkromance.m3u8
+#EXTINF:1,Pink Mistery
+http://87.116.166.242:82/pztaldoopnm/pinkmystery.m3u8
+#EXTINF:1,Pink Thriller
+http://87.116.166.242:82/pztaldoopnm/pinkthriller.m3u8
+#EXTINF:1,Pink SciFi
+http://87.116.166.242:82/pztaldoopnm/pinkscifi.m3u8
+#EXTINF:1,Pink Horror
+http://87.116.166.242:82/pztaldoopnm/pinkhorror.m3u8
+#EXTINF:1,Pink and roll
+http://87.116.166.242:82/pztaldoopnm/pinkandroll.m3u8
+#EXTINF:1,Pink folk 2
+http://87.116.166.242:82/pztaldoopnm/pinkfolk2.m3u8
+#EXTINF:1,Pink Hits 2
+http://87.116.166.242:82/pztaldoopnm/pinkhits2.m3u8
+#EXTINF:1,Pink Koncert
+http://87.116.166.242:82/pztaldoopnm/pinkkoncert.m3u8
+#EXTINF:1,Pink pedia
+http://87.116.166.242:82/pztaldoopnm/pinkpedia.m3u8
+#EXTINF:1,Pink Reality
+http://87.116.166.242:82/pztaldoopnm/pinkreality.m3u8
+#EXTINF:1,Pink soap
+http://87.116.166.242:82/pztaldoopnm/pinksoap.m3u8
+#EXTINF:1,Pink world
+http://87.116.166.242:82/pztaldoopnm/pinkworld.m3u8
+#EXTINF:1,Pink Zabava
+http://87.116.166.242:82/pztaldoopnm/pinkzabava.m3u8
+#EXTINF:0,Arena Sport 1
+http://188.247.133.26:8888/ipvt_010
+#EXTINF:0,Arena Sport 2
+http://188.247.133.26:8888/ipvt_011
+#EXTINF:0,Arena Sport 3
+http://188.247.133.18:8888/ipvt_005
+#EXTINF:0,Arena Sport 4
+http://188.247.133.18:8888/ipvt_006
+#EXTINF:0,Arena Sport 5
+http://188.247.133.18:8888/ipvt_007
+#EXTINF:0,CETV
+http://213.81.153.221:8080/cetv
+#EXTINF:0,Dolny Kubin m3u8
+http://s1.media-planet.sk:80/live/dolnykubin/playlist.m3u8
+#EXTINF:0,Dolny Kubin rtmp
+rtmp://s1.media-planet.sk:80/live/dolnykubin
+#EXTINF:0,Hronka Slovenia
+http://213.81.153.221:8080/hronka
+#EXTINF:0,SK-Nove Zamky m3u8
+http://s1.media-planet.sk:80/live/novezamky/playlist.m3u8
+#EXTINF:0,SK-Nove Zamky rtmp
+rtmp://s1.media-planet.sk:80/live/novezamky
+#EXTINF:0,SK-Pezinok rtmp
+rtmp://s1.media-planet.sk:80/live/pezinok
+#EXTINF:0,SK-Reduta m3u8
+http://s1.media-planet.sk:80/live/reduta/playlist.m3u8
+#EXTINF:0,SK-Reduta rtmp
+rtmp://s1.media-planet.sk:80/live/reduta
+#EXTINF:0,SK-RTV KREA
+http://213.81.153.221:8080/galanta
+#EXTINF:0,SK-Senica m3u8
+http://s1.media-planet.sk:80/live/senica1/playlist.m3u8
+#EXTINF:0,SK-Senica rtmp
+rtmp://s1.media-planet.sk:80/live/senica1
+#EXTINF:0,SK-STV1
+http://88.212.10.27:81/streams/stv1.m3u8?
+#EXTINF:0,SK-TA3
+http://88.212.10.27:81/streams/ta3.m3u8?
+#EXTINF:0,SK-Trencin rtmp
+rtmp://s1.media-planet.sk:80/live/trencin1
+#EXTINF:0,SK-Turzovka rtmp
+rtmp://s1.media-planet.sk:80/live/turzovka
+#EXTINF:0,SK-TV Mijava m3u8
+http://s1.media-planet.sk:80/live/myjava1/playlist.m3u8
+#EXTINF:0,SK-TV Mijava rtmp
+rtmp://s1.media-planet.sk:80/live/myjava1
+#EXTINF:0,SK-TV Skalica m3u8
+http://s1.media-planet.sk:80/live/skalica1/playlist.m3u8
+#EXTINF:9223372036854,PTC
+rtsp://195.252.113.40/rts
+#EXTINF:9223372036854,PTC SAT
+rtsp://rts.videostreaming.rs/rts/video
+#EXTINF:0,REGION
+http://88.212.10.27:81/streams/region.m3u8
+#EXTINF:0,RROKUM TV
+rtmp://82.114.65.202/live/rrokumtv
+#EXTINF:0,RTK 1
+rtmp://wowza.rtkit.com/live/livestream
+#EXTINF:0,RTS – Serbia
+rtsp://rts.videostreaming.rs/rts
+#EXTINF:0,RTS Sat mms
+mmsh://rts.videostreaming.rs/rts
+#EXTINF:0,RTV BANOVINA HR
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:0,SHUTEL
+http://fms.zulu.mk:1935/zulu/shutel_1/playlist.m3u8
+#EXTINF:0,Sitel
+rtsp://fms.zulu.mk/zulu/sitel_1
+#EXTINF:0,SITEL
+http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
+#EXTINF:0,Sitel 3
+rtsp://fms.zulu.mk/zulu/sitel3_1
+#EXTINF:0,SITEL 3
+http://fms.zulu.mk:1935/zulu/sitel3_1/playlist.m3u8
+#EXTINF:0,B92
+#EXTINF:0,Bardejov
+rtsp://s1.media-planet.sk:80/live/bardejov1
+#EXTINF:0,BK TV SLO
+rtmp://194.249.141.146:1935/live/bktv
+#EXTINF:0,Delta TV
+rtmp://rtmp.infomaniak.ch:1935/livecast/deltatv
+#EXTINF:0,ERA
+http://fms.zulu.mk:1935/zulu/era_1/playlist.m3u8
+#EXTINF:0,era TV
+rtsp://fms.zulu.mk/zulu/era_1
+#EXTINF:0,IRIS
+http://62.162.58.54:8080/iris
+#EXTINF:0,jug tv
+rtmp://84.20.77.50/live/livestream1
+#EXTINF:0,KANAL 5 PLUS
+http://fms.zulu.mk:1935/zulu/kanal5plus_1/playlist.m3u8
+#EXTINF:0,LESKOVAC TV
+http://5.153.25.7:8082/stream/?channel=tvleskovac&stream=1mb
+#EXTINF:0,ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:0,NET TV INFO
+http://5.153.25.7:8082/stream/?channel=nettvinfo&stream=1mb
+#EXTINF:0,NOVOSADSKA TV
+http://176.106.121.32:8080/
+#EXTINF:0,NOVOSADSKA TV mms
+mms://176.106.121.32:8080/
+#EXTINF:0,supersonic tv
+rtmp://str103.setplex.net:1935/228/stv_online
+#EXTINF:1,RTV1
+mms://176.106.121.32:8080/
+#EXTINF:1,RTV2
+mms://195.252.114.172/studiob
+#EXTINF:0,PINK
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,PRVA TV
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTS 1
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTS 2
+http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,B92
+http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,HAPPY
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,HRT 1
+http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,HRT 2
+http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,KANAL 3
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,SKY PLUS
+http://edge1.volim.tv/live/sky_plus.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,PALMA PLUS
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTCG SAT
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTRS
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,RTV 1
+http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,SOS
+http://edge1.volim.tv1/live/sos.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,STUDIO B
+http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
+#EXTINF:0,PINK 
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,PRVA TV 
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,RTS 1 
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,RTS 2 
+http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,HAPPY 
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,B92 
+http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,HRT 1 
+http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,HRT 2 
+http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,KANAL 3 
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,SKY PLUS 
+http://edge1.volim.tv/live/sky_plus.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,PALMA PLUS 
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,RTCG SAT 
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,RTRS 
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,RTV 1 
+http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,SOS 
+http://edge1.volim.tv1/live/sos.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e 
+#EXTINF:0,STUDIO B 
+http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=90df8700863cdf89ca0d31e74377ea58f060e02e
+#EXTINF:-1,NTV FUTBOL 1 
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/124/index.m3u8 
+#EXTINF:-1,NTV FUTBOL 2 
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/530/index.m3u8 
+#EXTINF:-1,NTV FUTBOL 3 
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8 
+#EXTINF:-1,NTV PLUS Sport 
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8
+ #EXTINF:-1,NTV Sport 
+http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8
+#EXTINF:-1,alkass 4
+http://alkass-i.akamaihd.net/hls/live/205534/4/live_20s.m3u8
+#EXTINF:-1,alkass 5
+http://alkass-i.akamaihd.net/hls/live/205534/5/live_5s.m3u8  
+#EXTINF:0,Наш футбол
+http://s1.edem.tv/iptv/6965WEPYARLRCG/531/index.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол
+http://s1.edem.tv/iptv/6965WEPYARLRCG/124/index.m3u8
+#EXTINF:0,НТВ-ПЛЮС Футбол 3
+http://s1.edem.tv/iptv/6965WEPYARLRCG/522/index.m3u8
+#EXTINF:0,НТВ Футбол 2
+http://s1.edem.tv/iptv/6965WEPYARLRCG/530/index.m3u8
+
