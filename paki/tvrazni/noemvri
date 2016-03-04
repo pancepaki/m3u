@@ -5,6 +5,52 @@
 http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,One HD
+http://rtmp.one.by:1300
+#EXTINF:-1,One UHD
+http://rtmp.one.by:1400
+#EXTINF:-1,Матч! Футбол 3
+http://92.249.68.26:8000/udp/239.255.0.4:1234
+#EXTINF:-1,Матч! Футбол 1
+http://92.249.68.26:8000/udp/239.255.0.21:1234
+#EXTINF:-1,Extreme Sports
+http://92.249.68.26:8000/udp/239.255.0.39:1234
+#EXTINF:-1,Viasat Golf
+http://92.249.68.26:8000/udp/239.255.0.44:1234
+#EXTINF:-1,Viasat Sport HD
+http://92.249.68.26:8000/udp/239.255.0.70:1234
+#EXTINF:-1,Viasat Sport
+http://92.249.68.26:8000/udp/239.255.0.104:1234
+#EXTINF:-1,Матч ТВ
+http://92.249.68.26:8000/udp/239.255.0.124:1234
+#EXTINF:-1,Матч! Игра
+http://92.249.68.26:8000/udp/239.255.0.138:1234
+#EXTINF:-1,Eurosport 1
+http://92.249.68.26:8000/udp/239.255.0.140:1234
+#EXTINF:-1,Матч! Футбол 2
+http://92.249.68.26:8000/udp/239.255.0.169:1234
+#EXTINF:-1,Матч! Арена
+http://92.249.68.26:8000/udp/239.255.0.171:1234
+#EXTINF:-1,Наш футбол
+http://92.249.68.26:8000/udp/239.255.0.185:1234
+#EXTINF:-1,Eurosport 2
+http://92.249.68.26:8000/udp/239.255.0.198:1234
+#EXTINF:-1,Наш футбол
+http://92.249.68.26:8000/udp/239.255.1.20:1234
+#EXTINF:-1,Матч! Боец
+http://92.249.68.26:8000/udp/239.255.1.37:1234
+#EXTINF:-1,Матч
+http://92.249.68.26:8000/udp/239.255.1.52:1234
+#EXTINF:-1,Eurosport
+http://92.249.68.26:8000/udp/239.255.1.80:1234
+#EXTINF:-1,BBC World News
+http://92.249.68.26:8000/udp/239.255.4.192:1234
 #EXTINF:-1,HD Media
 http://serv19.vintera.tv:8081/hdmedia/720p/playlist.m3u8
 #EXTINF:-1,HD Media 3D
