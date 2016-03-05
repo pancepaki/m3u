@@ -1,7 +1,7 @@
 #EXTM3U
-
+#EXTINF:-1,1 HD
+http://46.44.3.245:2002/udp/224.0.90.248:1234
 #EXTINF:-1,1HD
-
 http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
@@ -19,6 +19,35 @@ http://rtmp.one.by:1400
 http://92.249.68.26:8000/udp/239.255.0.4:1234
 #EXTINF:-1,Матч! Футбол 1
 http://92.249.68.26:8000/udp/239.255.0.21:1234
+#EXTINF:-1,Матч! Футбол 3
+http://176.120.119.93:11179/udp/239.0.1.179:4000
+#EXTINF:-1,Футбол 1
+http://176.120.119.93:11203/udp/239.0.1.203:4000
+#EXTINF:-1,Sport2
+http://176.120.119.93:11112/udp/239.0.1.112:4000
+#EXTINF:-1,Sport1
+http://176.120.119.93:11111/udp/239.0.1.111:4000
+#EXTINF:-1,Наш Футбол
+http://176.120.119.93:11100/udp/239.0.1.100:4000
+#EXTINF:-1,Viasat Sport HD
+http://176.120.119.93:11183/udp/239.0.1.183:4000
+#EXTINF:-1,Eurosport
+http://46.44.3.245:2002/udp/239.0.1.60:1234
+#EXTINF:-1,Спорт Плюс
+http://46.44.3.245:2002/udp/239.0.1.199:1234
+#EXTINF:-1,Футбол
+http://46.44.3.245:2002/udp/239.0.2.11:1234
+#EXTINF:-1,КХЛ
+http://92.249.68.26:8000/udp/239.255.0.1:1234
+#EXTINF:-1,Матч! Футбол 3
+http://92.249.68.26:8000/udp/239.255.0.4:1234
+#EXTINF:-1,Матч! Футбол 1
+http://92.249.68.26:8000/udp/239.255.0.21:1234
+#EXTINF:-1,Viasat Sport HD
+http://92.249.68.26:8000/udp/239.255.0.70:1234
+#EXTINF:-1,Матч ТВ
+http://92.249.68.26:8000/udp/239.255.0.124:1234
+
 #EXTINF:-1,Extreme Sports
 http://92.249.68.26:8000/udp/239.255.0.39:1234
 #EXTINF:-1,Viasat Golf
@@ -65,6 +94,9 @@ http://rtmp.infomaniak.ch/livecast/latele/.m3u8
 http://rtmp.infomaniak.ch/livecast/telebielinguech/.m3u8
 #EXTINF:-1, :LA TELE
 http://rtmp.infomaniak.ch/livecast/latele/.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://176.120.119.93:11003/udp/239.0.1.3:4000
+
 #EXTINF:-1,1 Georgian
 http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
 #EXTINF:0, KAZSPORT
