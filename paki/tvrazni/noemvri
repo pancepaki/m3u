@@ -56,6 +56,14 @@ rtmp://stream.smcloud.net/live2/best/best_720p
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:-1,Eska Party
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,Матч! Наш спорт
+http://31.43.6.172:1234/udp/239.0.0.156:1234
+#EXTINF:-1,Футбол 1
+http://31.43.6.172:1234/udp/239.0.0.166:1234
+#EXTINF:-1,Футбол 2
+http://31.43.6.172:1234/udp/239.0.0.172:1234
+#EXTINF:-1,Матч! Футбол 1
+http://31.43.6.172:1234/udp/239.0.0.110:1234
 #EXTINF:-1,Матч! Футбол 3
 http://92.249.68.26:8000/udp/239.255.0.4:1234
 #EXTINF:-1,Матч! Футбол 1
