@@ -1,10 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1,1HD
 http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1,1HD
 http://188.227.50.105:7778/udp/235.10.11.119:1234
-
 #EXTINF:-1,1HD
 http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
